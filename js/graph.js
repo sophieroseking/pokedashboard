@@ -7,8 +7,6 @@ function makeGraphs(error, pokemonData) {
 
 
     show_region_selector(ndx);
-    show_region_percentage(ndx);
-    show_type_percentage(ndx);
     show_grass_pokemon_in_region(ndx, "Kanto", "#percent-of-kanto-pokemon");
     show_grass_pokemon_in_region(ndx, "Johto", "#percent-of-johto-pokemon");
     show_grass_pokemon_in_region(ndx, "Hoenn", "#percent-of-hoenn-pokemon");
@@ -16,7 +14,10 @@ function makeGraphs(error, pokemonData) {
     show_grass_pokemon_in_region(ndx, "Unova", "#percent-of-unova-pokemon");
     show_grass_pokemon_in_region(ndx, "Kalos", "#percent-of-kalos-pokemon");
     show_grass_pokemon_in_region(ndx, "Alola", "#percent-of-alola-pokemon");
-    
+    show_region_percentage(ndx);
+    show_type_percentage(ndx);
+    show_percent_shiny_pokemon(ndx);
+
     dc.renderAll();
 }
 
@@ -30,6 +31,7 @@ function show_region_selector(ndx) {
         .group(regionSelect);
 }
 
+/*
 function show_type_percentage(ndx, type_1) {
     var typeColors = d3.scale.ordinal()
         .domain(["bug", "fire"])
@@ -48,9 +50,9 @@ function show_type_percentage(ndx, type_1) {
         .dimension(typeDim)
         .group(typeMix)
 }
+*/
 
 function show_grass_pokemon_in_region(ndx, place, element) {
-    var region_dim = ndx.dimension(dc.pluck('region'));
     var total_grass_pokemon = ndx.groupAll().reduce(
         function(p, v) {
             if (v.region === place) {
@@ -86,7 +88,7 @@ function show_grass_pokemon_in_region(ndx, place, element) {
             }
         })
         .group(total_grass_pokemon);
-        
+
 
 }
 
@@ -172,7 +174,7 @@ function show_percent_that_are_in_each_region(ndx) {
 
 */
 
-    
+
 
 function show_region_percentage(ndx) {
     var regionColors = d3.scale.ordinal()
@@ -197,4 +199,69 @@ function show_region_percentage(ndx) {
         .elasticY(true)
         .xAxisLabel("Region")
         .yAxis().ticks(20);
+}
+
+/*Number of Pokemon per type*/
+
+function show_type_percentage(ndx) {
+    var typeColors = d3.scale.ordinal()
+        .domain(["A"])
+        .range(["red"]);
+    var typeDim = ndx.dimension(function(d) {
+        return [d.type_1];
+    });
+    var typeMix = typeDim.group();
+
+    dc.barChart("#type-balance")
+        .width(700)
+        .height(250)
+        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .colorAccessor(function(d) { return d.key[0]; })
+        .colors(typeColors)
+        .dimension(typeDim)
+        .group(typeMix)
+        .transitionDuration(500)
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .elasticY(true)
+        .xAxisLabel("Type")
+        .yAxis().ticks(20);
+}
+
+/* Percentage of shiny Pokemon */
+
+function show_percent_shiny_pokemon(ndx) {
+
+    function percentageThatAreShinyandNon(shiny) {
+        return shinyDim.group().reduce(
+            function(p, v) {
+                p.total++;
+                if (v.shiny === shiny) {
+                    p.count++;
+                }
+                return p;
+            },
+            function(p, v) {
+                p.total++;
+                if (v.shiny === shiny) {
+                    p.count--;
+                }
+                return p;
+            },
+            function() {
+                return { count: 0, total: 0 };
+            }
+        );
+    }
+
+    var shinyDim = ndx.dimension(dc.pluck("shiny"));
+    var percentageThatAreShiny = percentageThatAreShinyandNon("yes");
+    var percentgeThatAreNonShiny = percentageThatAreShinyandNon("no");
+    
+    dc.pieChart("#shiny-non-shiny")
+        .height(150)
+        .radius(75)
+        .transitionDuration(500)
+        .dimension(percentgeThatAreNonShiny)
+        .group(percentageThatAreShiny);
 }
