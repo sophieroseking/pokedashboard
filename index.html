@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PokéDashboard</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/dc.min.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css" type="text/css" />
+
+
+    <script type="text/javascript" src="js/d3.min.js"></script>
+    <script type="text/javascript" src="js/crossfilter.min.js"></script>
+    <script type="text/javascript" src="js/dc.min.js"></script>
+    <script type="text/javascript" src="js/queue.min.js"></script>
+    <script type="text/javascript" src="js/graph.js"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <a class="navbar-brand" href="#">Gotta Catch 'em All!</a>
+    </nav>
+
+    <main>
+        <section class="section">
+            <div class="container-fluid">
+
+                <div class="row">
+                    <div class="header col-xs-12 col-sm-12">
+                        <img src="https://fontmeme.com/permalink/190111/77588213fad7fb2f89f9011adae33004.png" alt="pokéDashboard" border="0" class="header-image">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="container-fluid chart selector col-xs-12 col-sm-12 col-md-6 col-lg-4">
+                    <div class="chart-header">
+                        <h2>Select Region</h2>
+                    </div>
+                    <div class="chart-holder">
+                        <div id="region-selector">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="chart col-xs-12 col-sm-4">
+                        <h2>Pokémon Region</h2>
+                        <div class="chart-holder"></div>
+                        <div id="#type-percentage"></div>
+                    </div>
+                    <div class="chart col-xs-12 col-sm-4">
+                        <h2>Pokémon Type</h2>
+                        <div class="chart"></div>
+                    </div>
+                    <div class="chart col-xs-12 col-sm-4">
+                        <h2>Shiny Pokémon</h2>
+                        <div class="chart"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="chart col-xs-12 col-sm-12 col-lg-12">
+                        <h2>Percentrage of grass pokemon in each region</h2>
+                        <div id="percent-of-kanto-pokemon" class="col-lg-2">
+                            <h3>Kanto</h3>
+                        </div>
+                        <div id="percent-of-johto-pokemon" class="col-lg-2">
+                            <h3>Johto</h3>
+                        </div>
+                        <div id="percent-of-hoenn-pokemon" class="col-lg-2">
+                            <h3>Hoenn</h3>
+                        </div>
+                        <div id="percent-of-sinnoh-pokemon" class="col-lg-2">
+                            <h3>Sinnoh</h3>
+                        </div>
+                        <div id="percent-of-unova-pokemon" class="col-lg-2">
+                            <h3>Unova</h3>
+                        </div>
+                        <div id="percent-of-kalos-pokemon" class="col-lg-2">
+                            <h3>Kalos</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="container-fluid chart col-xs-12 col-sm-6 text-center" id="region-balance" class="custom-chart"></div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="container-fluid">
+        <p>Website brought to you by Sophie King <i class="fa fa-github"></i></p>
+    </footer>
+</body>
+
+</html>

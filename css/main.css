@@ -1,0 +1,59 @@
+/* Main page */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    background-image: url("https://cdn.vox-cdn.com/thumbor/IKt535q8LMnJDddmLL74TBtzv88=/0x266:1024x949/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/48942277/N3DS_PokemonSuperMysteryDungeon_MainIllustration_png_jpgcopy.0.0.jpg");
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+h2 {
+    background-color: #525252;
+    color: #fafafa;
+    text-align: center;
+}
+
+.container-fluid {
+    float: none !important;
+    text-align: center;
+}
+
+/* Header */
+
+.header-image {
+    display: block;
+    margin: 30px auto 30px auto;
+    width: 50%;
+}
+
+/* Chart containers */
+.chart{
+    background-color: rgb(255,255,255,0.7);
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+/* region-selector */
+.selector {
+    margin: 30px;
+}
+
+#region-selector {
+    float: none !important;
+}
+
+
+/*Footer*/
+
+footer {
+    background-color: #525252;
+    color: white;
+}
+
+footer p {
+    text-align: right;
+}
