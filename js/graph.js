@@ -14,8 +14,9 @@ function makeGraphs(error, pokemonData) {
     show_grass_pokemon_in_region(ndx, "Unova", "#percent-of-unova-pokemon");
     show_grass_pokemon_in_region(ndx, "Kalos", "#percent-of-kalos-pokemon");
     show_grass_pokemon_in_region(ndx, "Alola", "#percent-of-alola-pokemon");
-    show_region_percentage(ndx);
-    show_type_percentage(ndx);
+    show_region_numbers(ndx);
+    show_type_totals(ndx);
+    show_generation_totals(ndx);
     show_percent_shiny_pokemon(ndx);
 
     dc.renderAll();
@@ -176,7 +177,7 @@ function show_percent_that_are_in_each_region(ndx) {
 
 
 
-function show_region_percentage(ndx) {
+function show_region_numbers(ndx) {
     var regionColors = d3.scale.ordinal()
         .domain(["Kanto", "Johto", "Hoenn", "Sinnoh", "Unova", "Kalos", "Alola"])
         .range(["red", "orange", "yellow", "green", "blue", "purple", "pink"]);
@@ -201,30 +202,31 @@ function show_region_percentage(ndx) {
         .yAxis().ticks(20);
 }
 
-/*Number of Pokemon per type*/
 
-function show_type_percentage(ndx) {
-    var typeColors = d3.scale.ordinal()
-        .domain(["A"])
-        .range(["red"]);
-    var typeDim = ndx.dimension(function(d) {
-        return [d.type_1];
+/*Number per generation */
+
+function show_generation_totals(ndx) {
+    var generationColors = d3.scale.ordinal()
+        .domain(["A","B", "C"])
+        .range(["red", "blue", "yellow"]);
+    var generationDim = ndx.dimension(function(d) {
+        return [d.generation];
     });
-    var typeMix = typeDim.group();
+    var generationMix = generationDim.group();
 
-    dc.barChart("#type-balance")
-        .width(700)
+    dc.barChart("#generation-balance")
+        .width(350)
         .height(250)
         .margins({ top: 10, right: 50, bottom: 30, left: 50 })
         .colorAccessor(function(d) { return d.key[0]; })
-        .colors(typeColors)
-        .dimension(typeDim)
-        .group(typeMix)
+        .colors(generationColors)
+        .dimension(generationDim)
+        .group(generationMix)
         .transitionDuration(500)
         .x(d3.scale.ordinal())
         .xUnits(dc.units.ordinal)
         .elasticY(true)
-        .xAxisLabel("Type")
+        .xAxisLabel("Generartion")
         .yAxis().ticks(20);
 }
 
@@ -264,4 +266,32 @@ function show_percent_shiny_pokemon(ndx) {
         .transitionDuration(500)
         .dimension(percentgeThatAreNonShiny)
         .group(percentageThatAreShiny);
+}
+
+
+/*Number of Pokemon per type*/
+
+function show_type_totals(ndx) {
+    var typeColors = d3.scale.ordinal()
+        .domain(["A"])
+        .range(["red"]);
+    var typeDim = ndx.dimension(function(d) {
+        return [d.type_1];
+    });
+    var typeMix = typeDim.group();
+
+    dc.barChart("#type-balance")
+        .width(700)
+        .height(250)
+        .margins({ top: 10, right: 50, bottom: 30, left: 50 })
+        .colorAccessor(function(d) { return d.key[0]; })
+        .colors(typeColors)
+        .dimension(typeDim)
+        .group(typeMix)
+        .transitionDuration(500)
+        .x(d3.scale.ordinal())
+        .xUnits(dc.units.ordinal)
+        .elasticY(true)
+        .xAxisLabel("Type")
+        .yAxis().ticks(20);
 }

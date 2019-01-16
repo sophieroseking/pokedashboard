@@ -36,6 +36,9 @@ h2 {
     margin-bottom: 30px;
     padding: 0;
 }
+.chart-holder {
+    text-align: center;
+}
 
 /* region-selector */
 .selector {
@@ -44,6 +47,10 @@ h2 {
 
 #region-selector {
     float: none !important;
+}
+
+button, select {
+    width: 300px;
 }
 
 
