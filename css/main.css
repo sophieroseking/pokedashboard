@@ -1,5 +1,7 @@
 /* Main page */
 
+html, body{overflow-x: hidden;}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -21,12 +23,20 @@ h2 {
     text-align: center;
 }
 
+
+/* Navbar */
+
+nav {
+    background-color: #525252;
+    
+}
+
 /* Header */
 
 .header-image {
     display: block;
     margin: 30px auto 30px auto;
-    width: 50%;
+    width: 100%;
 }
 
 /* Chart containers */
@@ -38,12 +48,10 @@ h2 {
 }
 .chart-holder {
     text-align: center;
+    margin-bottom: 10px;
 }
 
 /* region-selector */
-.selector {
-    margin: 30px;
-}
 
 #region-selector {
     float: none !important;
@@ -51,7 +59,41 @@ h2 {
 
 button, select {
     width: 300px;
+    background-color: white;
 }
+
+/* Top row charts */
+
+#region-balance, #type-balance, #shiny-non-shiny {
+    float: none !important;
+}
+
+
+/* Fire, grass and water Pokemon rows */
+
+.grass-pokemon {
+    background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("../images/grass-banner.jpg");
+    background-size: contain;
+    color: white;
+    font-size: 25px
+}
+
+.fire-pokemon {
+    background:
+    linear-gradient(
+      rgba(255, 255, 255, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("../images/fire-banner.jpg");
+    color: white;
+    font-size: 25px
+}
+
 
 
 /*Footer*/
@@ -63,4 +105,19 @@ footer {
 
 footer p {
     text-align: right;
+}
+
+
+/* Media queries */
+
+@media (min-width: 1281px) {
+    .header-image {
+        width: 50%;
+    }
+    .grass-pokemon {
+        font-size: 50px;
+    }
+    .fire-pokemon {
+        font-size: 50px;
+    }
 }

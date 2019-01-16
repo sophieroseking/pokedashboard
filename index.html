@@ -37,13 +37,15 @@
                 </div>
             </div>
 
-            <div class="row">
-                <div class="container-fluid chart selector col-xs-12 col-sm-12 col-md-6 col-lg-4">
-                    <div class="chart-header">
+
+            <div class="container-fluid">
+
+                <div class="row">
+                    <div class="chart col-xs-12 col-md-6 col-lg-4 offset-md-4">
                         <h2>Select Region</h2>
-                    </div>
-                    <div class="chart-holder">
-                        <div id="region-selector">
+                        <div class="chart-holder">
+                            <div id="region-selector">
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -52,21 +54,21 @@
 
         <section class="section">
             <div class="container-fluid">
-                <div class="row text-center">
-                    <div class="chart bar-chart col-xs-12 col-sm-4">
-                        <h2>Number of Pokémon in each region</h2>
+                <div class="row">
+                    <div class="chart col-xs-12 col-sm-4">
+                        <h2>Number of Pokémon from each region</h2>
                         <div class="chart-holder"></div>
                         <div id="region-balance"></div>
                     </div>
                     <div class="chart col-xs-12 col-sm-4">
-                        <h2>Number of Pokémon in each generation release</h2>
-                        <div class="chart"></div>
-                        <div id="generation-balance"></div>
+                        <h2>The main types of Pokémon</h2>
+                        <div class="chart-holder"></div>
+                        <div id="type-balance"></div>
                     </div>
                     <div class="chart col-xs-12 col-sm-4">
-                        <h2>Number of shiny Pokémon vs. non-shiny Pokémon</h2>
-                        <div class="chart"></div>
-                        <div id="#shiny-non-shiny"></div>
+                        <h2>Number of shiny Pokémon</h2>
+                        <div class="chart-holder"></div>
+                        <div id="shiny-non-shiny"></div>
                     </div>
                 </div>
             </div>
@@ -74,40 +76,77 @@
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="chart col-xs-12 col-sm-12 col-lg-12">
-                        <h2>Percentrage of grass pokemon in each region</h2>
-                        <div id="percent-of-kanto-pokemon" class="col-lg-2">
+                    <div class="chart grass-pokemon col-xs-12 col-sm-12 col-lg-12">
+                        <h2>Percentage of grass Pokémon in each region</h2>
+                        <div id="grass-in-kanto" class="col-lg-2">
                             <h3>Kanto</h3>
                         </div>
-                        <div id="percent-of-johto-pokemon" class="col-lg-2">
+                        <div id="grass-in-johto" class="col-lg-2">
                             <h3>Johto</h3>
                         </div>
-                        <div id="percent-of-hoenn-pokemon" class="col-lg-2">
+                        <div id="grass-in-hoenn" class="col-lg-2">
                             <h3>Hoenn</h3>
                         </div>
-                        <div id="percent-of-sinnoh-pokemon" class="col-lg-2">
+                        <div id="grass-in-sinnoh" class="col-lg-2">
                             <h3>Sinnoh</h3>
                         </div>
-                        <div id="percent-of-unova-pokemon" class="col-lg-2">
+                        <div id="grass-in-unova" class="col-lg-2">
                             <h3>Unova</h3>
                         </div>
-                        <div id="percent-of-kalos-pokemon" class="col-lg-2">
+                        <div id="grass-in-kalos" class="col-lg-2">
+                            <h3>Kalos</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+                        <div class="container-fluid">
+                <div class="row">
+                    <div class="chart fire-pokemon col-xs-12 col-sm-12 col-lg-12">
+                        <h2>Percentage of fire Pokémon in each region</h2>
+                        <div id="fire-in-kanto" class="col-lg-2">
+                            <h3>Kanto</h3>
+                        </div>
+                        <div id="fire-in-johto" class="col-lg-2">
+                            <h3>Johto</h3>
+                        </div>
+                        <div id="fire-in-hoenn" class="col-lg-2">
+                            <h3>Hoenn</h3>
+                        </div>
+                        <div id="fire-in-sinnoh" class="col-lg-2">
+                            <h3>Sinnoh</h3>
+                        </div>
+                        <div id="fire-in-unova" class="col-lg-2">
+                            <h3>Unova</h3>
+                        </div>
+                        <div id="fire-in-kalos" class="col-lg-2">
                             <h3>Kalos</h3>
                         </div>
                     </div>
                 </div>
             </div>
 
+           
 
-            <div class="row">
-                <div class="container-fluid chart col-xs-12 col-sm-6 text-center" id="type-balance" class="custom-chart">
-                    <h2>Number of each type of Pokémon</h2>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="chart col-xs-12 col-sm-6 " id="gender-balance-math">
+                        <h2>The main types of Pokémon</h2>
+                    </div>
+
+                    <div class="chart col-xs-12 col-sm-6" id="type-2-percentage">
+                        <h2>Percentage of the second Pokémon type</h2>
+                    </div>
                 </div>
 
+                <div class="row">
+                    <div class="chart col-xs-12 col-sm-6 offset-md-3" id="">
+                        <h2>Egg chart</h2>
+                    </div>
+                </div>
             </div>
-            </div>
-            </div>
-            </div>
+            
+
         </section>
 
     </main>
@@ -115,6 +154,7 @@
     <footer class="container-fluid">
         <p>Website brought to you by Sophie King <a href="https://github.com/sophieroseking" target="_blank"><i class="fa fa-github"></i></a></p>
     </footer>
+
 </body>
 
 </html>
