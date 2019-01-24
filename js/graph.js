@@ -265,7 +265,7 @@ function show_percent_egg_distance(ndx) {
         .colors(eggColors)
         .dimension(egg_distanceDim)
         .group(percentagePerDistance)
-        .legend(dc.legend().x(20).y(15));
+        .legend(dc.legend().x(0).y(15));
 }
 
 /* Number of pokemon per region bar chart */
@@ -334,8 +334,8 @@ function show_type_by_gen(ndx) {
 
 
     dc.barChart("#type-balance")
-        .height(250)
-        .width(500)
+        .height(300)
+        .width(450)
         .margins({ top: 10, right: 50, bottom: 30, left: 100 })
         .dimension(typeClass_dim)
         .group(rankGen1)
@@ -359,7 +359,7 @@ function show_type_by_gen(ndx) {
         .on('renderlet', function(chart) {
             chart.selectAll("g.x text")
                 .attr('dx', '-15')
-                .attr('transform', "rotate(-30)");
+                .attr('transform', "rotate(-37)");
         })
         .legend(dc.legend().x(10).y(40).itemHeight(15).gap(5).itemWidth(50)
         .legendText(dc.pluck('name'))
@@ -385,8 +385,7 @@ function show_cp_scatter(ndx) {
     var maxMaxCp = maxCpDim.top(1)[0].max_cp;
 
     dc.scatterPlot("#cp-scatter-plot")
-        .width(768)
-        .height(480)
+        .width(420)
         .x(d3.scale.linear().domain([minMaxCp, maxMaxCp]))
         .brushOn(false)
         .symbolSize(8)

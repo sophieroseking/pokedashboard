@@ -23,6 +23,11 @@ h2 {
     color: #3E3F3A;
 }
 
+h3 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
 
 /* Navbar */
 
@@ -60,11 +65,7 @@ select {
 
 /* Top row charts */
 
-#region-balance,
-#type-balance,
-#shiny-non-shiny {
-    float: none !important;
-}
+
 
 
 /* Fire, grass and water Pokemon rows */
@@ -109,13 +110,6 @@ select {
 
 /* Cp Scatter */
 
-#cp-scatter-plot {
-    margin-bottom: 0;
-}
-
-.cp-paragraph {
-    width: 600px;
-}
 
 /*Footer*/
 
