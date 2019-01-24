@@ -1,808 +1,808 @@
-﻿generation,region,number,Name,type_1,type_2,lenegdary_status,regional,egg_distance,shiny
-1,Kanto,010,Caterpie,Bug,,,,,Yes
-1,Kanto,011,Metapod,Bug,,,,,No
-1,Kanto,012,Butterfree,Bug,Flying,,,,No
-1,Kanto,013,Weedle,Bug,,,,,No
-1,Kanto,014,Kakuna,Bug,,,,,No
-1,Kanto,015,Beedrill,Bug,Flying,,,,No
-1,Kanto,046,Paras,Bug,Grass,,,,No
-1,Kanto,047,Parasect,Bug,Grass,,,,No
-1,Kanto,048,Venonat,Bug,Poison,,,,No
-1,Kanto,049,Venomoth,Bug,Poison,,,,No
-1,Kanto,123,Scyther,Bug,Flying,,,5 km,No
-1,Kanto,127,Pinsir,Bug,,,,,No
-2,Johto,164,Noctowl,Bug,Flying,,,,No
-2,Johto,165,Ledyba,Bug,Flying,,,,No
-2,Johto,166,Ledian,Bug,Flying,,,,No
-2,Johto,167,Spinarak,Bug,Poison,,,,No
-2,Johto,168,Ariados,Bug,Poison,,,,No
-2,Johto,193,Yanma,Bug,Flying,,,,No
-2,Johto,204,Pineco,Bug,,,,,Yes
-2,Johto,205,Forretress,Bug,Steel,,,,Yes
-2,Johto,212,Scizor,Bug,Steel,,,,No
-2,Johto,213,Shuckle,Bug,Rock,,,,No
-2,Johto,214,Heracross,Bug,Fighting,,South America,,No
-3,Hoenn,265,Wurmple,Bug,,,,,No
-3,Hoenn,266,Silcoon,Bug,,,,,No
-3,Hoenn,267,Beautifly,Bug,Flying,,,,No
-3,Hoenn,268,Cascoon,Bug,,,,,No
-3,Hoenn,269,Dustox,Bug,Poison,,,,No
-3,Hoenn,283,Surskit,Bug,Water,,,,No
-3,Hoenn,284,Masquerain,Bug,Flying,,,,No
-3,Hoenn,290,Nincada,Bug,Ground,,,,No
-3,Hoenn,291,Ninjask,Bug,Flying,,,,No
-3,Hoenn,292,Shedinja,Bug,Ghost,,,,No
-3,Hoenn,313,Volbeat,Bug,,,Europe,,No
-3,Hoenn,314,Illumise,Bug,,,North America,,No
-4,Sinnoh,401,Kricketot,Bug,,,,,No
-4,Sinnoh,402,Kricketune,Bug,,,,,No
-4,Sinnoh,412,Burmy,Bug,,,,,No
-4,Sinnoh,413,Wormadam,Bug,,,,,No
-4,Sinnoh,414,Mothim,Bug,Flying,,,,No
-4,Sinnoh,415,Combee,Bug,Flying,,,,No
-4,Sinnoh,416,Vespiquen,Bug,Flying,,,,No
-4,Sinnoh,469,Yanmega,Bug,Flying,0,,,No
-5,Unova,540,Sewaddle,Bug,Grass,0,,,No
-5,Unova,541,Swadloon,Bug,Grass,0,,,No
-5,Unova,542,Leavanny,Bug,Grass,0,,,No
-5,Unova,543,Venipede,Bug,Poison,0,,,No
-5,Unova,544,Whirlipede,Bug,Poison,0,,,No
-5,Unova,545,Scolipede,Bug,Poison,0,,,No
-5,Unova,557,Dwebble,Bug,Rock,0,,,No
-5,Unova,558,Crustle,Bug,Rock,0,,,No
-5,Unova,588,Karrablast,Bug,,0,,,No
-5,Unova,589,Escavalier,Bug,Steel,0,,,No
-5,Unova,595,Joltik,Bug,Electric,0,,,No
-5,Unova,596,Galvantula,Bug,Electric,0,,,No
-5,Unova,616,Shelmet,Bug,,0,,,No
-5,Unova,617,Accelgor,Bug,,0,,,No
-5,Unova,632,Durant,Bug,Steel,0,,,No
-5,Unova,636,Larvesta,Bug,Fire,0,,,No
-5,Unova,637,Volcarona,Bug,Fire,0,,,No
-5,Unova,649,Genesect,Bug,Steel,Mythical,,,No
-6,Kalos,664,Scatterbug,Bug,,0,,,No
-6,Kalos,665,Spewpa,Bug,,0,,,No
-6,Kalos,666,Vivillon,Bug,Flying,0,,,No
-7,Alola,736,Grubbin,Bug,,0,,,No
-7,Alola,737,Charjabug,Bug,Electric,0,,,No
-7,Alola,738,Vikavolt,Bug,Electric,0,,,No
-7,Alola,742,Cutiefly,Bug,Fairy,0,,,No
-7,Alola,743,Ribombee,Bug,Fairy,0,,,No
-7,Alola,767,Wimpod,Bug,Water,0,,,No
-7,Alola,768,Golisopod,Bug,Water,0,,,No
-7,Alola,794,Buzzwole,Bug,Fighting,0,,,No
-7,Alola,795,Pheromosa,Bug,Fighting,0,,,No
-2,Johto,197,Umbreon,Dark,,0,,,Yes
-2,Johto,198,Murkrow,Dark,Flying,0,,,Yes
-2,Johto,215,Sneasel,Dark,Ice,0,,,No
-2,Johto,228,Houndour,Dark,Fire,0,,,Yes
-2,Johto,229,Houndoom,Dark,Fire,0,,,Yes
-3,Hoenn,261,Poochyena,Dark,,0,,2 km,Yes
-3,Hoenn,262,Mightyena,Dark,,0,,,Yes
-3,Hoenn,302,Sableye,Dark,Ghost,0,,,Yes
-3,Hoenn,359,Absol,Dark,,0,,,Yes
-4,Sinnoh,430,Honchkrow,Dark,Flying,0,,,No
-4,Sinnoh,461,Weavile,Dark,Ice,0,,,No
-4,Sinnoh,491,Darkrai,Dark,,Mythical,,,No
-5,Unova,509,Purrloin,Dark,,0,,,No
-5,Unova,510,Liepard,Dark,,0,,,No
-5,Unova,559,Scraggy,Dark,Fighting,0,,,No
-5,Unova,560,Scrafty,Dark,Fighting,0,,,No
-5,Unova,570,Zorua,Dark,,0,,,No
-5,Unova,571,Zoroark,Dark,,0,,,No
-5,Unova,624,Pawniard,Dark,Steel,0,,,No
-5,Unova,625,Bisharp,Dark,Steel,0,,,No
-5,Unova,629,Vullaby,Dark,Flying,0,,,No
-5,Unova,630,Mandibuzz,Dark,Flying,0,,,No
-5,Unova,633,Deino,Dark,Dragon,0,,,No
-5,Unova,634,Zweilous,Dark,Dragon,0,,,No
-5,Unova,635,Hydreigon,Dark,Dragon,0,,,No
-6,Kalos,686,Inkay,Dark,Psychic,0,,,No
-6,Kalos,687,Malamar,Dark,Psychic,0,,,No
-6,Kalos,717,Yveltal,Dark,Flying,Legendary,,,No
-7,Alola,799,Guzzlord,Dark,Dragon,0,,,No
-1,Kanto,147,Dratini,Dragon,,0,,10 km,Yes
-1,Kanto,148,Dragonair,Dragon,,0,,,Yes
-1,Kanto,149,Dragonite,Dragon,Flying,0,,,Yes
-3,Hoenn,334,Altaria,Dragon,Flying,0,,,Yes
-3,Hoenn,371,Bagon,Dragon,,0,,10 km,No
-3,Hoenn,372,Shelgon,Dragon,,0,,,No
-3,Hoenn,373,Salamence,Dragon,Flying,0,,,No
-3,Hoenn,380,Latias,Dragon,Psychic,Legendary,,,No
-3,Hoenn,381,Latios,Dragon,Psychic,Legendary,,,No
-3,Hoenn,384,Rayquaza,Dragon,Flying,Legendary,,,No
-4,Sinnoh,443,Gible,Dragon,Ground,0,,,No
-4,Sinnoh,444,Gabite,Dragon,Ground,0,,,No
-4,Sinnoh,445,Garchomp,Dragon,Ground,0,,,No
-5,Unova,610,Axew,Dragon,,0,,,No
-5,Unova,611,Fraxure,Dragon,,0,,,No
-5,Unova,612,Haxorus,Dragon,,0,,,No
-5,Unova,621,Druddigon,Dragon,,0,,,No
-5,Unova,643,Reshiram,Dragon,Fire,Legendary,,,No
-5,Unova,644,Zekrom,Dragon,Electric,Legendary,,,No
-5,Unova,646,Kyurem,Dragon,Ice,Legendary,,,No
-6,Kalos,704,Goomy,Dragon,,0,,,No
-6,Kalos,705,Sliggoo,Dragon,,0,,,No
-6,Kalos,706,Goodra,Dragon,,0,,,No
-6,Kalos,718,Zygarde,Dragon,Ground,Legendary,,,No
-7,Alola,782,Jangmo0o,Dragon,,0,,,No
-7,Alola,783,Hakamo0o,Dragon,Fighting,0,,,No
-7,Alola,784,Kommo0o,Dragon,Fighting,0,,,No
-1,Kanto,025,Pikachu,Electric,,0,,,Yes
-1,Kanto,026,Raichu,Electric,,0,,,Yes
-1,Kanto,081,Magnemite,Electric,Steel,0,,,No
-1,Kanto,082,Magneton,Electric,Steel,0,,,No
-1,Kanto,100,Voltorb,Electric,,0,,,No
-1,Kanto,101,Electrode,Electric,,0,,,No
-1,Kanto,125,Electabuzz,Electric,,0,,,No
-1,Kanto,135,Jolteon,Electric,,0,,,Yes
-1,Kanto,145,Zapdos,Electric,Flying,Legendary,,,Yes
-2,Johto,172,Pichu,Electric,,0,,2 km,Yes
-2,Johto,179,Mareep,Electric,,0,,10 km,Yes
-2,Johto,180,Flaaffy,Electric,,0,,,Yes
-2,Johto,181,Ampharos,Electric,,0,,,Yes
-2,Johto,239,Elekid,Electric,,0,,5 km,No
-2,Johto,243,Raikou,Electric,,Legendary,,,No
-3,Hoenn,309,Electrike,Electric,,0,,,No
-3,Hoenn,310,Manectric,Electric,,0,,,No
-3,Hoenn,311,Plusle,Electric,,0,,,Yes
-3,Hoenn,312,Minun,Electric,,0,,,Yes
-4,Sinnoh,403,Shinx,Electric,,0,,,Yes
-4,Sinnoh,404,Luxio,Electric,,0,,,Yes
-4,Sinnoh,405,Luxray,Electric,,0,,,Yes
-4,Sinnoh,417,Pachirisu,Electric,,0,Northern Canada,,No
-4,Sinnoh,462,Magnezone,Electric,Steel,0,,,No
-4,Sinnoh,466,Electivire,Electric,,0,,,No
-4,Sinnoh,479,Rotom,Electric,Ghost,0,,,No
-5,Unova,522,Blitzle,Electric,,0,,,No
-5,Unova,523,Zebstrika,Electric,,0,,,No
-5,Unova,587,Emolga,Electric,Flying,0,,,No
-5,Unova,602,Tynamo,Electric,,0,,,No
-5,Unova,603,Eelektrik,Electric,,0,,,No
-5,Unova,604,Eelektross,Electric,,0,,,No
-5,Unova,642,Thundurus,Electric,Flying,Legendary,,,No
-6,Kalos,694,Helioptile,Electric,Normal,0,,,No
-6,Kalos,695,Helioisk,Electric,Normal,0,,,No
-6,Kalos,702,Dedenne,Electric,Fairy,0,,,No
-7,Alola,777,Togedemaru,Electric,Steel,0,,,No
-7,Alola,785,Tapu Koko,Electric,Fairy,Legendary,,,No
-7,Alola,796,Xurkitree,Electric,,0,,,No
-7,Alola,807,Zeraora,Electric,,Mythical,,,No
-1,Kanto,035,Clefairy,Fairy,,0,,,No
-1,Kanto,036,Clefable,Fairy,,0,,,No
-2,Johto,173,Cleffa,Fairy,,0,,2 km,No
-2,Johto,175,Togepi,Fairy,,0,,2 km,Yes
-2,Johto,176,Togetic,Fairy,Flying,0,,,Yes
-2,Johto,209,Snubbull,Fairy,,0,,,Yes
-2,Johto,210,Granbull,Fairy,,0,,,Yes
-4,Sinnoh,468,Togekiss,Fairy,Flying,0,,,No
-6,Kalos,669,Flabébé,Fairy,,0,,,No
-6,Kalos,670,Floette,Fairy,,0,,,No
-6,Kalos,671,Florges,Fairy,,0,,,No
-6,Kalos,682,Spritzee,Fairy,,0,,,No
-6,Kalos,683,Aromatisse,Fairy,,0,,,No
-6,Kalos,684,Swirlix,Fairy,,0,,,No
-6,Kalos,685,Slurpuff,Fairy,,0,,,No
-6,Kalos,700,Sylveon,Fairy,,0,,,No
-6,Kalos,716,Xerneas,Fairy,,Legendary,,,No
-7,Alola,764,Comfey,Fairy,,0,,,No
-1,Kanto,056,Mankey,Fighting,,0,,,No
-1,Kanto,057,Primeape,Fighting,,0,,,No
-1,Kanto,066,Machop,Fighting,,0,,2 km,No
-1,Kanto,067,Machoke,Fighting,,0,,,No
-1,Kanto,068,Machamp,Fighting,,0,,,No
-1,Kanto,106,Hitmonlee,Fighting,,0,,,No
-1,Kanto,107,Hitmonchan,Fighting,,0,,,No
-2,Johto,236,Tyrogue,Fighting,,0,,5 km,No
-2,Johto,237,Hitmontop,Fighting,,0,,,No
-3,Hoenn,296,Makuhita,Fighting,,0,,5 km,Yes
-3,Hoenn,297,Hariyama,Fighting,,0,,,Yes
-3,Hoenn,307,Meditite,Fighting,Psychic,0,,,Yes
-3,Hoenn,308,Medicham,Fighting,Psychic,0,,,Yes
-4,Sinnoh,447,Riolu,Fighting,,0,,,No
-4,Sinnoh,448,Lucario,Fighting,Steel,0,,,No
-5,Unova,532,Timburr,Fighting,,0,,,No
-5,Unova,533,Gurdurr,Fighting,,0,,,No
-5,Unova,534,Conkeldurr,Fighting,,0,,,No
-5,Unova,538,Throh,Fighting,,0,,,No
-5,Unova,539,Sawk,Fighting,,0,,,No
-5,Unova,619,Mienfoo,Fighting,,0,,,No
-5,Unova,620,Mienshao,Fighting,,0,,,No
-6,Kalos,674,Pancham,Fighting,,0,,,No
-6,Kalos,675,Pangoro,Fighting,Dark,0,,,No
-6,Kalos,701,Hawlucha,Fighting,Flying,0,,,No
-7,Alola,739,Crabrawler,Fighting,,0,,,No
-7,Alola,740,Crabominable,Fighting,Ice,0,,,No
-7,Alola,766,Passimian,Fighting,,0,,,No
-7,Alola,802,Marshadow,Fighting,Ghost,Mythical,,,No
-1,Kanto,004,Charmander,Fire,,0,,,Yes
-1,Kanto,005,Charmeleon,Fire,,0,,,Yes
-1,Kanto,006,Charizard,Fire,Flying,0,,,Yes
-1,Kanto,037,Vulpix,Fire,,0,,,No
-1,Kanto,038,Ninetales,Fire,,0,,,No
-1,Kanto,058,Growlithe,Fire,,0,,,Yes
-1,Kanto,059,Arcanine,Fire,,0,,,Yes
-1,Kanto,077,Ponyta,Fire,,0,,,No
-1,Kanto,078,Rapidash,Fire,,0,,,No
-1,Kanto,126,Magmar,Fire,,0,,,Yes
-1,Kanto,136,Flareon,Fire,,0,,,Yes
-1,Kanto,146,Moltres,Fire,Flying,Legendary,,,Yes
-2,Johto,155,Cyndaquil,Fire,,0,,,No
-2,Johto,156,Quilava,Fire,,0,,,No
-2,Johto,157,Typhlosion,Fire,,0,,,No
-2,Johto,218,Slugma,Fire,,0,,,No
-2,Johto,219,Magcargo,Fire,Rock,0,,,No
-2,Johto,240,Magby,Fire,,0,,5 km,Yes
-2,Johto,244,Entei,Fire,,Legendary,,,No
-2,Johto,250,Ho0Oh,Fire,Flying,Legendary,,,Yes
-3,Hoenn,255,Torchic,Fire,,0,,5 km,No
-3,Hoenn,256,Combusken,Fire,Fighting,0,,,No
-3,Hoenn,257,Blaziken,Fire,Fighting,0,,,No
-3,Hoenn,322,Numel,Fire,Ground,0,,5 km,No
-3,Hoenn,323,Camerupt,Fire,Ground,0,,,No
-3,Hoenn,324,Torkoal,Fire,,0,Asia,,No
-4,Sinnoh,390,Chimchar,Fire,,0,,,No
-4,Sinnoh,391,Monferno,Fire,Fighting,0,,,No
-4,Sinnoh,392,Infernape,Fire,Fighting,0,,,No
-4,Sinnoh,467,Magmortar,Fire,,0,,,No
-4,Sinnoh,485,Heatran,Fire,Steel,Legendary,,,No
-5,Unova,498,Tepig,Fire,,0,,,No
-5,Unova,499,Pignite,Fire,Fighting,0,,,No
-5,Unova,500,Emboar,Fire,Fighting,0,,,No
-5,Unova,513,Pansear,Fire,,0,,,No
-5,Unova,514,Simisear,Fire,,0,,,No
-5,Unova,554,Darumaka,Fire,,0,,,No
-5,Unova,555,Darmanitan,Fire,,0,,,No
-5,Unova,631,Heatmor,Fire,,0,,,No
-6,Kalos,653,Fennekin,Fire,,0,,,No
-6,Kalos,654,Braixen,Fire,,0,,,No
-6,Kalos,655,Delphox,Fire,Psychic,0,,,No
-6,Kalos,662,Fletchinder,Fire,Flying,0,,,No
-6,Kalos,663,Talonflame,Fire,Flying,0,,,No
-6,Kalos,667,Litleo,Fire,Normal,0,,,No
-6,Kalos,668,Pyroar,Fire,Normal,0,,,No
-6,Kalos,721,Volcanion,Fire,Water,Mythical,,,No
-7,Alola,725,Litten,Fire,,0,,,No
-7,Alola,726,Torracat,Fire,,0,,,No
-7,Alola,727,Incineroar,Fire,Dark,0,,,No
-7,Alola,741,Oricorio,Fire,Flying,0,,,No
-7,Alola,776,Turtonator,Fire,Dragon,0,,,No
-7,Alola,806,Blacephalon,Fire,Ghost,0,,,No
-5,Unova,641,Tornadus,Flying,,Legendary,,,No
-6,Kalos,714,Noibat,Flying,Dragon,0,,,No
-6,Kalos,715,Noivern,Flying,Dragon,0,,,No
-1,Kanto,092,Gastly,Ghost,Poison,0,,,No
-1,Kanto,093,Haunter,Ghost,Poison,0,,,No
-1,Kanto,094,Gengar,Ghost,Poison,0,,,No
-2,Johto,200,Misdreavus,Ghost,,0,,,No
-3,Hoenn,353,Shuppet,Ghost,,0,,,Yes
-3,Hoenn,354,Banette,Ghost,,0,,,Yes
-3,Hoenn,355,Duskull,Ghost,,0,,,Yes
-3,Hoenn,356,Dusclops,Ghost,,0,,,Yes
-4,Sinnoh,425,Drifloon,Ghost,Flying,0,,,No
-4,Sinnoh,426,Drifblim,Ghost,Flying,0,,,No
-4,Sinnoh,429,Mismagius,Ghost,,0,,,No
-4,Sinnoh,442,Spiritomb,Ghost,Dark,0,,,No
-4,Sinnoh,477,Dusknoir,Ghost,Ghost,0,,,No
-4,Sinnoh,487,Giratina,Ghost,Dragon,Legendary,,,No
-5,Unova,562,Yamask,Ghost,,0,,,No
-5,Unova,563,Cofagrigus,Ghost,,0,,,No
-5,Unova,607,Litwick,Ghost,Fire,0,,,No
-5,Unova,608,Lampent,Ghost,Fire,0,,,No
-5,Unova,609,Chandelure,Ghost,Fire,0,,,No
-6,Kalos,708,Phantump,Ghost,Grass,0,,,No
-6,Kalos,709,Trevenant,Ghost,Grass,0,,,No
-6,Kalos,710,Pumpkaboo,Ghost,Grass,0,,,No
-6,Kalos,711,Gourgeist,Ghost,Grass,0,,,No
-7,Alola,769,Sandygast,Ghost,Ground,0,,,No
-7,Alola,770,Palossand,Ghost,Ground,0,,,No
-7,Alola,778,Mimikyu,Ghost,Fairy,0,,,No
-7,Alola,781,Dhelmise,Ghost,Grass,0,,,No
-1,Kanto,001,Bulbasaur,Grass,Poison,0,,,Yes
-1,Kanto,002,Ivysaur,Grass,Poison,0,,,Yes
-1,Kanto,003,Venusaur,Grass,Poison,0,,,Yes
-1,Kanto,043,Oddish,Grass,Poison,0,,,No
-1,Kanto,044,Gloom,Grass,Poison,0,,,No
-1,Kanto,045,Vileplume,Grass,Poison,0,,,No
-1,Kanto,069,Bellsprout,Grass,Poison,0,,,No
-1,Kanto,070,Weepinbell,Grass,Poison,0,,,No
-1,Kanto,071,Victreebel,Grass,Poison,0,,,No
-1,Kanto,102,Exeggcute,Grass,Psychic,0,,,No
-1,Kanto,103,Exeggutor,Grass,Psychic,0,,,No
-1,Kanto,114,Tangela,Grass,,0,,5 km,No
-2,Johto,152,Chikorita,Grass,,0,,,Yes
-2,Johto,153,Bayleef,Grass,,0,,,Yes
-2,Johto,154,Meganium,Grass,,0,,,Yes
-2,Johto,182,Bellossom,Grass,,0,,,No
-2,Johto,187,Hoppip,Grass,Flying,0,,,No
-2,Johto,188,Skiploom,Grass,Flying,0,,,No
-2,Johto,189,Jumpluff,Grass,Flying,0,,,No
-2,Johto,191,Sunkern,Grass,,0,,,Yes
-2,Johto,192,Sunflora,Grass,,0,,,Yes
-3,Hoenn,252,Treecko,Grass,,0,,5 km,No
-3,Hoenn,253,Grovyle,Grass,,0,,,No
-3,Hoenn,254,Sceptile,Grass,,0,,,No
-3,Hoenn,273,Seedot,Grass,,0,,,No
-3,Hoenn,274,Nuzleaf,Grass,Dark,0,,,No
-3,Hoenn,275,Shiftry,Grass,Dark,0,,,No
-3,Hoenn,285,Shroomish,Grass,,0,,5 km,No
-3,Hoenn,286,Breloom,Grass,Fighting,0,,,No
-3,Hoenn,315,Roselia,Grass,Poison,0,,,Yes
-3,Hoenn,330,Flygon,Grass,Dragon,0,,,No
-3,Hoenn,331,Cacnea,Grass,,0,,,No
-3,Hoenn,332,Cacturne,Grass,Dark,0,,,No
-3,Hoenn,357,Tropius,Grass,Flying,0,Africa,,No
-4,Sinnoh,387,Turtwig,Grass,,0,,,No
-4,Sinnoh,388,Grotle,Grass,,0,,,No
-4,Sinnoh,389,Torterra,Grass,Ground,0,,,No
-4,Sinnoh,406,Budew,Grass,Poison,0,,,No
-4,Sinnoh,407,Roserade,Grass,Poison,0,,,No
-4,Sinnoh,420,Cherubi,Grass,,0,,,No
-4,Sinnoh,421,Cherrim,Grass,,0,,,No
-4,Sinnoh,455,Carnivine,Grass,,0,Southeast USA,,No
-4,Sinnoh,459,Snover,Grass,Ice,0,,,No
-4,Sinnoh,460,Abomasnow,Grass,Ice,0,,,No
-4,Sinnoh,465,Tangrowth,Grass,,0,,,No
-4,Sinnoh,470,Leafeon,Grass,,0,,,No
-4,Sinnoh,492,Shaymin,Grass,,Mythical,,,No
-5,Unova,495,Snivy,Grass,,0,,,No
-5,Unova,496,Servine,Grass,,0,,,No
-5,Unova,497,Serperior,Grass,,0,,,No
-5,Unova,511,Pansage,Grass,,0,,,No
-5,Unova,512,Simisage,Grass,,0,,,No
-5,Unova,546,Cottonee,Grass,Fairy,0,,,No
-5,Unova,547,Whimsicott,Grass,Fairy,0,,,No
-5,Unova,548,Petilil,Grass,,0,,,No
-5,Unova,549,Lilligant,Grass,,0,,,No
-5,Unova,556,Maractus,Grass,,0,,,No
-5,Unova,590,Foongus,Grass,Poison,0,,,No
-5,Unova,591,Amoonguss,Grass,Poison,0,,,No
-5,Unova,597,Ferroseed,Grass,Steel,0,,,No
-5,Unova,598,Ferrothorn,Grass,Steel,0,,,No
-5,Unova,640,Virizion,Grass,Fighting,Legendary,,,No
-6,Kalos,650,Chespin,Grass,,0,,,No
-6,Kalos,651,Quiladin,Grass,,0,,,No
-6,Kalos,652,Chesnaught,Grass,Fighting,0,,,No
-6,Kalos,672,Skiddo,Grass,,0,,,No
-6,Kalos,673,Gogoat,Grass,,0,,,No
-7,Alola,722,Rowlet,Grass,Flying,0,,,No
-7,Alola,723,Dartrix,Grass,Flying,0,,,No
-7,Alola,724,Decidueye,Grass,Ghost,0,,,No
-7,Alola,753,Fomantis,Grass,,0,,,No
-7,Alola,754,Lurantis,Grass,,0,,,No
-7,Alola,755,Morelull,Grass,Fairy,0,,,No
-7,Alola,756,Shiinotic,Grass,Fairy,0,,,No
-7,Alola,761,Bounsweet,Grass,,0,,,No
-7,Alola,762,Steenee,Grass,,0,,,No
-7,Alola,763,Tsareena,Grass,,0,,,No
-7,Alola,787,Tapu Bulu,Grass,Fairy,Legendary,,,No
-7,Alola,798,Kartana,Grass,Steel,0,,,No
-1,Kanto,027,Sandshrew,Ground,,0,,,No
-1,Kanto,028,Sandslash,Ground,,0,,,No
-1,Kanto,050,Diglett,Ground,,0,,,No
-1,Kanto,051,Dugtrio,Ground,,0,,,No
-1,Kanto,104,Cubone,Ground,,0,,,No
-1,Kanto,105,Marowak,Ground,,0,,,No
-1,Kanto,111,Rhyhorn,Ground,Rock,0,,,No
-1,Kanto,112,Rhydon,Ground,Rock,0,,,No
-2,Johto,207,Gligar,Ground,Flying,0,,,No
-2,Johto,231,Phanpy,Ground,,0,,,No
-2,Johto,232,Donphan,Ground,,0,,,No
-3,Hoenn,328,Trapinch,Ground,,0,,10 km,No
-3,Hoenn,329,Vibrava,Ground,Dragon,0,,,No
-3,Hoenn,343,Baltoy,Ground,Psychic,0,,5 km,No
-3,Hoenn,344,Claydol,Ground,Psychic,0,,,No
-3,Hoenn,383,Groudon,Ground,,Legendary,,,No
-4,Sinnoh,449,Hippopotas,Ground,,0,,,No
-4,Sinnoh,450,Hippowdon,Ground,,0,,,No
-4,Sinnoh,464,Rhyperior,Ground,Rock,0,,,No
-4,Sinnoh,472,Gliscor,Ground,Flying,0,,,No
-5,Unova,529,Drilbur,Ground,,0,,,No
-5,Unova,530,Excadrill,Ground,Steel,0,,,No
-5,Unova,551,Sandile,Ground,Dark,0,,,No
-5,Unova,552,Krokorok,Ground,Dark,0,,,No
-5,Unova,553,Krookodile,Ground,Dark,0,,,No
-5,Unova,618,Stunfisk,Ground,Electric,0,,,No
-5,Unova,622,Golett,Ground,Ghost,0,,,No
-5,Unova,623,Golurk,Ground,Ghost,0,,,No
-5,Unova,645,Landorus,Ground,Flying,Legendary,,,No
-7,Alola,749,Mudbray,Ground,,0,,,No
-7,Alola,750,Mudsdale,Ground,,0,,,No
-1,Kanto,124,Jynx,Ice,Psychic,0,,,No
-1,Kanto,144,Articuno,Ice,Flying,Legendary,,,Yes
-2,Johto,220,Swinub,Ice,Ground,0,,2 km,No
-2,Johto,221,Piloswine,Ice,Ground,0,,,No
-2,Johto,225,Delibird,Ice,Flying,0,,,No
-2,Johto,238,Smoochum,Ice,Psychic,0,,,No
-3,Hoenn,361,Snorunt,Ice,,0,,,Yes
-3,Hoenn,362,Glalie,Ice,,0,,,Yes
-3,Hoenn,363,Spheal,Ice,Water,0,,2 km,No
-3,Hoenn,364,Sealeo,Ice,Water,0,,,No
-3,Hoenn,365,Walrein,Ice,Water,0,,,No
-3,Hoenn,378,Regice,Ice,,Legendary,,,No
-4,Sinnoh,471,Glaceon,Ice,,0,,,No
-4,Sinnoh,473,Mamoswine,Ice,Ground,0,,,No
-4,Sinnoh,478,Froslass,Ice,Ghost,0,,,No
-5,Unova,582,Vanillite,Ice,,0,,,No
-5,Unova,583,Vanillish,Ice,,0,,,No
-5,Unova,584,Vanilluxe,Ice,,0,,,No
-5,Unova,613,Cubchoo,Ice,,0,,,No
-5,Unova,614,Beartic,Ice,,0,,,No
-5,Unova,615,Cryogonal,Ice,,0,,,No
-6,Kalos,712,Bergmite,Ice,,0,,,No
-6,Kalos,713,Avalugg,Ice,,0,,,No
-1,Kanto,016,Pidgey,Normal,Flying,0,,,No
-1,Kanto,017,Pidgeotto,Normal,Flying,0,,,No
-1,Kanto,018,Pidgeot,Normal,Flying,0,,,No
-1,Kanto,019,Rattata,Normal,,0,,,No
-1,Kanto,020,Raticate,Normal,,0,,,No
-1,Kanto,021,Spearow,Normal,Flying,0,,,No
-1,Kanto,022,Fearow,Normal,Flying,0,,,No
-1,Kanto,039,Jigglypuff,Normal,Fairy,0,,,No
-1,Kanto,040,Wigglytuff,Normal,Fairy,0,,,No
-1,Kanto,052,Meowth,Normal,,0,,,No
-1,Kanto,053,Persian,Normal,,0,,,No
-1,Kanto,083,Farfetch'd,Normal,Flying,0,Asia,,No
-1,Kanto,084,Doduo,Normal,Flying,0,,,No
-1,Kanto,085,Dodrio,Normal,Flying,0,,,No
-1,Kanto,108,Lickitung,Normal,,0,,5 km,No
-1,Kanto,113,Chansey,Normal,,0,,10 km,No
-1,Kanto,115,Kangaskhan,Normal,,0,Australia,,No
-1,Kanto,128,Tauros,Normal,,0,North America,,No
-1,Kanto,132,Ditto,Normal,,0,,,No
-1,Kanto,133,Eevee,Normal,,0,,5 km,Yes
-1,Kanto,137,Porygon,Normal,,0,,10 km,No
-1,Kanto,143,Snorlax,Normal,,0,,,Yes
-2,Johto,161,Sentret,Normal,,0,,,No
-2,Johto,162,Furret,Normal,,0,,,No
-2,Johto,163,Hoothoot,Normal,Flying,0,,,No
-2,Johto,174,Igglybuff,Normal,Fairy,0,,2 km,No
-2,Johto,190,Aipom,Normal,,0,,,No
-2,Johto,203,Girafarig,Normal,Psychic,0,,,No
-2,Johto,206,Dunsparce,Normal,,0,,,No
-2,Johto,216,Teddiursa,Normal,,0,,,No
-2,Johto,217,Ursaring,Normal,,0,,,No
-2,Johto,233,Porygon2,Normal,,0,,,No
-2,Johto,234,Stantler,Normal,,0,,,No
-2,Johto,235,Smeargle,Normal,,0,,,No
-2,Johto,241,Miltank,Normal,,0,,,No
-2,Johto,242,Blissey,Normal,,0,,,No
-3,Hoenn,263,Zigzagoon,Normal,,0,,,No
-3,Hoenn,264,Linoone,Normal,,0,,,No
-3,Hoenn,276,Taillow,Normal,Flying,0,,2 km,No
-3,Hoenn,277,Swellow,Normal,Flying,0,,,No
-3,Hoenn,287,Slakoth,Normal,,0,,10 km,No
-3,Hoenn,288,Vigoroth,Normal,,0,,,No
-3,Hoenn,289,Slaking,Normal,,0,,,No
-3,Hoenn,293,Whismur,Normal,,0,,,No
-3,Hoenn,294,Loudred,Normal,,0,,,No
-3,Hoenn,295,Exploud,Normal,,0,,,No
-3,Hoenn,298,Azurill,Normal,Fairy,0,,5 km,No
-3,Hoenn,300,Skitty,Normal,,0,,,No
-3,Hoenn,301,Delcatty,Normal,,0,,,No
-3,Hoenn,327,Spinda,Normal,,0,,,No
-3,Hoenn,333,Swablu,Normal,Flying,0,,2 km,Yes
-3,Hoenn,335,Zangoose,Normal,,0,Rotates,,No
-3,Hoenn,351,Castform,Normal,,0,,,No
-3,Hoenn,352,Kecleon,Normal,,0,,,No
-4,Sinnoh,396,Starly,Normal,Flying,0,,,No
-4,Sinnoh,397,Staravia,Normal,Flying,0,,,No
-4,Sinnoh,398,Staraptor,Normal,Flying,0,,,No
-4,Sinnoh,399,Bidoof,Normal,,0,,,No
-4,Sinnoh,400,Bibarel,Normal,Water,0,,,No
-4,Sinnoh,424,Ambipom,Normal,,0,,,No
-4,Sinnoh,427,Buneary,Normal,,0,,,No
-4,Sinnoh,428,Lopunny,Normal,,0,,,No
-4,Sinnoh,431,Glameow,Normal,,0,,,No
-4,Sinnoh,432,Purugly,Normal,,0,,,No
-4,Sinnoh,440,Happiny,Normal,,0,,,No
-4,Sinnoh,441,Chatot,Normal,Flying,0,Southern Hemisphere,,No
-4,Sinnoh,446,Munchlax,Normal,,0,,,No
-4,Sinnoh,463,Lickilicky,Normal,,0,,,No
-4,Sinnoh,474,Porygon0Z,Normal,,0,,,No
-4,Sinnoh,486,Regigigas,Normal,,Legendary,,,No
-4,Sinnoh,493,Arceus,Normal,,Mythical,,,No
-5,Unova,504,Patrat,Normal,,0,,,No
-5,Unova,505,Watchog,Normal,,0,,,No
-5,Unova,506,Lillipup,Normal,,0,,,No
-5,Unova,507,Herdier,Normal,,0,,,No
-5,Unova,508,Stoutland,Normal,,0,,,No
-5,Unova,519,Pidove,Normal,Flying,0,,,No
-5,Unova,520,Tranquill,Normal,Flying,0,,,No
-5,Unova,521,Unfezant,Normal,Flying,0,,,No
-5,Unova,531,Audino,Normal,,0,,,No
-5,Unova,572,Minccino,Normal,,0,,,No
-5,Unova,573,Cinccino,Normal,,0,,,No
-5,Unova,585,Deerling,Normal,Grass,0,,,No
-5,Unova,586,Sawsbuck,Normal,Grass,0,,,No
-5,Unova,626,Bouffalant,Normal,,0,,,No
-5,Unova,627,Rufflet,Normal,Flying,0,,,No
-5,Unova,628,Braviary,Normal,Flying,0,,,No
-5,Unova,648,Meloetta,Normal,Psychic,Mythical,,,No
-6,Kalos,659,Bunnelby,Normal,,0,,,No
-6,Kalos,660,Diggersby,Normal,Ground,0,,,No
-6,Kalos,661,Fletchling,Normal,Flying,0,,,No
-6,Kalos,676,Furfrou,Normal,,0,,,No
-7,Alola,731,Pikipek,Normal,Flying,0,,,No
-7,Alola,732,Trumbeak,Normal,Flying,0,,,No
-7,Alola,733,Toucannon,Normal,Flying,0,,,No
-7,Alola,734,Yungoos,Normal,,0,,,No
-7,Alola,735,Gumshoos,Normal,,0,,,No
-7,Alola,759,Stufful,Normal,Fighting,0,,,No
-7,Alola,760,Bewear,Normal,Fighting,0,,,No
-7,Alola,765,Oranguru,Normal,Psychic,0,,,No
-7,Alola,772,Type: Null,Normal,,Legendary,,,No
-7,Alola,773,Silvally,Normal,,Legendary,,,No
-7,Alola,775,Komala,Normal,,0,,,No
-7,Alola,780,Drampa,Normal,Dragon,0,,,No
-1,Kanto,023,Ekans,Poison,,0,,,No
-1,Kanto,024,Arbok,Poison,,0,,,No
-1,Kanto,029,Nidoran♀,Poison,,0,,,Yes
-1,Kanto,030,Nidorina,Poison,,0,,,Yes
-1,Kanto,031,Nidoqueen,Poison,Ground,0,,,Yes
-1,Kanto,032,Nidoran♂,Poison,,0,,,No
-1,Kanto,033,Nidorino,Poison,,0,,,No
-1,Kanto,034,Nidoking,Poison,Ground,0,,,No
-1,Kanto,041,Zubat,Poison,Flying,0,,,No
-1,Kanto,042,Golbat,Poison,Flying,0,,,No
-1,Kanto,088,Grimer,Poison,,0,,,Yes
-1,Kanto,089,Muk,Poison,,0,,,Yes
-1,Kanto,109,Koffing,Poison,,0,,,No
-1,Kanto,110,Weezing,Poison,,0,,,No
-2,Johto,169,Crobat,Poison,Flying,0,,,No
-3,Hoenn,316,Gulpin,Poison,,0,,,No
-3,Hoenn,317,Swalot,Poison,,0,,,No
-3,Hoenn,336,Seviper,Poison,,0,Rotates,,No
-4,Sinnoh,434,Stunky,Poison,Dark,0,,,No
-4,Sinnoh,435,Skuntank,Poison,Dark,0,,,No
-4,Sinnoh,451,Skorupi,Poison,Bug,0,,,No
-4,Sinnoh,452,Drapion,Poison,Dark,0,,,No
-4,Sinnoh,453,Croagunk,Poison,Fighting,0,,,No
-4,Sinnoh,454,Toxicroak,Poison,Fighting,0,,,No
-5,Unova,568,Trubbish,Poison,,0,,,No
-5,Unova,569,Garbodor,Poison,,0,,,No
-6,Kalos,690,Skrelp,Poison,Water,0,,,No
-6,Kalos,691,Dragalge,Poison,Dragon,0,,,No
-7,Alola,747,Mareanie,Poison,Water,0,,,No
-7,Alola,748,Toxapex,Poison,Water,0,,,No
-7,Alola,757,Salandit,Poison,Fire,0,,,No
-7,Alola,758,Salazzle,Poison,Fire,0,,,No
-7,Alola,803,Poipole,Poison,,0,,,No
-7,Alola,804,Naganadel,Poison,Dragon,0,,,No
-1,Kanto,063,Abra,Psychic,,0,,,No
-1,Kanto,064,Kadabra,Psychic,,0,,,No
-1,Kanto,065,Alakazam,Psychic,,0,,,No
-1,Kanto,096,Drowzee,Psychic,,0,,,Yes
-1,Kanto,097,Hypno,Psychic,,0,,,Yes
-1,Kanto,122,Mr. Mime,Psychic,Fairy,0,Europe,,No
-1,Kanto,150,Mewtwo,Psychic,,Legendary,,,No
-1,Kanto,151,Mew ,Psychic,,Mythical,,,No
-2,Johto,177,Natu,Psychic,Flying,0,,,Yes
-2,Johto,178,Xatu,Psychic,Flying,0,,,Yes
-2,Johto,196,Espeon,Psychic,,0,,,Yes
-2,Johto,201,Unown,Psychic,,0,,,No
-2,Johto,202,Wobbuffet,Psychic,,0,,,Yes
-2,Johto,249,Lugia,Psychic,Flying,Legendary,,,Yes
-2,Johto,251,Celebi,Psychic,Grass,Mythical,,,No
-3,Hoenn,280,Ralts,Psychic,Fairy,0,,,No
-3,Hoenn,281,Kirlia,Psychic,Fairy,0,,,No
-3,Hoenn,282,Gardevoir,Psychic,Fairy,0,,,No
-3,Hoenn,325,Spoink,Psychic,,0,,,No
-3,Hoenn,326,Grumpig,Psychic,,0,,,No
-3,Hoenn,358,Chimecho,Psychic,,0,,10 km,No
-3,Hoenn,360,Wynaut,Psychic,,0,,5 km,Yes
-3,Hoenn,386,Deoxys,Psychic,,Mythical,,,No
-4,Sinnoh,433,Chingling,Psychic,,0,,,No
-4,Sinnoh,439,Mime Jr.,Psychic,Fairy,0,,,No
-4,Sinnoh,475,Gallade,Psychic,Fighting,0,,,No
-4,Sinnoh,480,Uxie,Psychic,,Legendary,,,No
-4,Sinnoh,481,Mesprit,Psychic,,Legendary,,,No
-4,Sinnoh,482,Azelf,Psychic,,Legendary,,,No
-4,Sinnoh,488,Cresselia,Psychic,,Legendary,,,No
-5,Unova,494,Victini,Psychic,Fire,Mythical,,,No
-5,Unova,517,Munna,Psychic,,0,,,No
-5,Unova,518,Musharna,Psychic,,0,,,No
-5,Unova,527,Woobat,Psychic,Flying,0,,,No
-5,Unova,528,Swoobat,Psychic,Flying,0,,,No
-5,Unova,561,Sigilyph,Psychic,Flying,0,,,No
-5,Unova,574,Gothita,Psychic,,0,,,No
-5,Unova,575,Gothorita,Psychic,,0,,,No
-5,Unova,576,Gothitelle,Psychic,,0,,,No
-5,Unova,577,Solosis,Psychic,,0,,,No
-5,Unova,578,Duosion,Psychic,,0,,,No
-5,Unova,579,Reuniclus,Psychic,,0,,,No
-5,Unova,605,Elgyem,Psychic,,0,,,No
-5,Unova,606,Beheeyem,Psychic,,0,,,No
-6,Kalos,677,Espurr,Psychic,,0,,,No
-6,Kalos,678,Meowstic,Psychic,,0,,,No
-6,Kalos,720,Hoopa,Psychic,Ghost,Mythical,,,No
-7,Alola,786,Tapu Lele,Psychic,Fairy,Legendary,,,No
-7,Alola,789,Cosmog,Psychic,,Legendary,,,No
-7,Alola,790,Cosmoem,Psychic,,Legendary,,,No
-7,Alola,791,Solgaleo,Psychic,Steel,Legendary,,,No
-7,Alola,792,Lunala,Psychic,Ghost,Legendary,,,No
-7,Alola,800,Necrozma,Psychic,,Legendary,,,No
-1,Kanto,074,Geodude,Rock,Ground,0,,,Yes
-1,Kanto,075,Graveler,Rock,Ground,0,,,Yes
-1,Kanto,076,Golem,Rock,Ground,0,,,Yes
-1,Kanto,095,Onix,Rock,Ground,0,,5 km,No
-1,Kanto,138,Omanyte,Rock,Water,0,,5 km,Yes
-1,Kanto,139,Omastar,Rock,Water,0,,,Yes
-1,Kanto,140,Kabuto,Rock,Water,0,,5 km,Yes
-1,Kanto,141,Kabutops,Rock,Water,0,,,Yes
-1,Kanto,142,Aerodactyl,Rock,Flying,0,,,Yes
-2,Johto,185,Sudowoodo,Rock,,0,,,No
-2,Johto,246,Larvitar,Rock,Ground,0,,10 km,Yes
-2,Johto,247,Pupitar,Rock,Ground,0,,,Yes
-2,Johto,248,Tyranitar,Rock,Ground,0,,,Yes
-3,Hoenn,299,Nosepass,Rock,,0,,5 km,No
-3,Hoenn,337,Lunatone,Rock,Psychic,0,Rotates,,No
-3,Hoenn,338,Solrock,Rock,Psychic,0,Rotates,,No
-3,Hoenn,345,Lileep,Rock,Grass,0,,5 km,No
-3,Hoenn,346,Cradily,Rock,Grass,0,,,No
-3,Hoenn,347,Anorith,Rock,Bug,0,,,No
-3,Hoenn,348,Armaldo,Rock,Bug,0,,,No
-3,Hoenn,377,Regirock,Rock,,Legendary,,,No
-4,Sinnoh,408,Cranidos,Rock,,0,,,No
-4,Sinnoh,409,Rampardos,Rock,,0,,,No
-4,Sinnoh,410,Shieldon,Rock,Steel,0,,,No
-4,Sinnoh,411,Bastiodon,Rock,Steel,0,,,No
-4,Sinnoh,438,Bonsly,Rock,,0,,,No
-4,Sinnoh,476,Probopass,Rock,Steel,0,,,No
-5,Unova,524,Roggenrola,Rock,,0,,,No
-5,Unova,525,Boldore,Rock,,0,,,No
-5,Unova,526,Gigalith,Rock,,0,,,No
-5,Unova,566,Archen,Rock,Flying,0,,,No
-5,Unova,567,Archeops,Rock,Flying,0,,,No
-5,Unova,639,Terrakion,Rock,Fighting,Legendary,,,No
-6,Kalos,688,Binacle,Rock,Water,0,,,No
-6,Kalos,689,Barbaracle,Rock,Water,0,,,No
-6,Kalos,696,Tyrunt,Rock,Dragon,0,,,No
-6,Kalos,697,Tyrantrum,Rock,Dragon,0,,,No
-6,Kalos,698,Amaura,Rock,Ice,0,,,No
-6,Kalos,699,Aurorus,Rock,Ice,0,,,No
-6,Kalos,703,Carbink,Rock,Fairy,0,,,No
-6,Kalos,719,Diance,Rock,Fairy,Mythical,,,No
-7,Alola,744,Rockruff,Rock,,0,,,No
-7,Alola,745,Lycanroc,Rock,,0,,,No
-7,Alola,774,Minior,Rock,Flying,0,,,No
-7,Alola,793,Nihilego,Rock,Poison,0,,,No
-7,Alola,805,Stakataka,Rock,Steel,0,,,No
-2,Johto,208,Steelix,Steel,Ground,0,,,No
-2,Johto,227,Skarmory,Steel,Flying,0,,,No
-3,Hoenn,303,Mawile,Steel,Fairy,0,,,Yes
-3,Hoenn,304,Aron,Steel,Rock,0,,2 km,Yes
-3,Hoenn,305,Lairon,Steel,Rock,0,,,Yes
-3,Hoenn,306,Aggron,Steel,Rock,0,,,Yes
-3,Hoenn,374,Beldum,Steel,Psychic,0,,10 km,No
-3,Hoenn,375,Metang,Steel,Psychic,0,,,No
-3,Hoenn,376,Metagross,Steel,Psychic,0,,,No
-3,Hoenn,379,Registeel,Steel,,Legendary,,,No
-3,Hoenn,385,Jirachi,Steel,Psychic,Mythical,,,No
-4,Sinnoh,436,Bronzor,Steel,Psychic,0,,,No
-4,Sinnoh,437,Bronzong,Steel,Psychic,0,,,No
-4,Sinnoh,483,Dialga,Steel,Dragon,Legendary,,,No
-5,Unova,599,Klink,Steel,,0,,,No
-5,Unova,600,Klang,Steel,,0,,,No
-5,Unova,601,Klinklang,Steel,,0,,,No
-5,Unova,638,Cobalion,Steel,Fighting,Legendary,,,No
-6,Kalos,679,Honedge,Steel,Ghost,0,,,No
-6,Kalos,680,Doublade,Steel,Ghost,0,,,No
-6,Kalos,681,Aegislash,Steel,Ghost,0,,,No
-6,Kalos,707,Klefki,Steel,Fairy,0,,,No
-7,Alola,797,Celesteela,Steel,Flying,0,,,No
-7,Alola,801,Magearna,Steel,Fairy,Mythical,,,No
-1,Kanto,007,Squirtle,Water,,0,,,Yes
-1,Kanto,008,Wartortle,Water,,0,,,Yes
-1,Kanto,009,Blastoise,Water,,0,,,Yes
-1,Kanto,054,Psyduck,Water,,0,,,No
-1,Kanto,055,Golduck,Water,,0,,,No
-1,Kanto,060,Poliwag,Water,,0,,,No
-1,Kanto,061,Poliwhirl,Water,,0,,,No
-1,Kanto,062,Poliwrath,Water,Fighting,0,,,No
-1,Kanto,072,Tentacool,Water,Poison,0,,,No
-1,Kanto,073,Tentacruel,Water,Poison,0,,,No
-1,Kanto,079,Slowpoke,Water,Psychic,0,,,No
-1,Kanto,080,Slowbro,Water,Psychic,0,,,No
-1,Kanto,086,Seel,Water,,0,,,No
-1,Kanto,087,Dewgong,Water,Ice,0,,,No
-1,Kanto,090,Shellder,Water,,0,,2 km,Yes
-1,Kanto,091,Cloyster,Water,Ice,0,,,Yes
-1,Kanto,098,Krabby,Water,,0,,,Yes
-1,Kanto,099,Kingler,Water,,0,,,Yes
-1,Kanto,116,Horsea,Water,,0,,,No
-1,Kanto,117,Seadra,Water,,0,,,No
-1,Kanto,118,Goldeen,Water,,0,,,No
-1,Kanto,119,Seaking,Water,,0,,,No
-1,Kanto,120,Staryu,Water,,0,,,No
-1,Kanto,121,Starmie,Water,Psychic,0,,,No
-1,Kanto,129,Magikarp,Water,,0,,,Yes
-1,Kanto,130,Gyarados,Water,Flying,0,,,Yes
-1,Kanto,131,Lapras,Water,Ice,0,,,No
-1,Kanto,134,Vaporeon,Water,,0,,,Yes
-2,Johto,158,Totodile,Water,,0,,,No
-2,Johto,159,Croconaw,Water,,0,,,No
-2,Johto,160,Feraligatr,Water,,0,,,No
-2,Johto,170,Chinchou,Water,Electric,0,,,No
-2,Johto,171,Lanturn,Water,Electric,0,,,No
-2,Johto,183,Marill,Water,Fairy,0,,,No
-2,Johto,184,Azumarill,Water,Fairy,0,,,No
-2,Johto,186,Politoed,Water,,0,,,No
-2,Johto,194,Wooper,Water,Ground,0,,,No
-2,Johto,195,Quagsire,Water,Ground,0,,,No
-2,Johto,199,Slowking,Water,Psychic,0,,,No
-2,Johto,211,Qwilfish,Water,Poison,0,,,No
-2,Johto,222,Corsola,Water,Rock,0,Tropical,,No
-2,Johto,223,Remoraid,Water,,0,,,No
-2,Johto,224,Octillery,Water,,0,,,No
-2,Johto,226,Mantine,Water,Flying,0,,5 km,No
-2,Johto,230,Kingdra,Water,Dragon,0,,,No
-2,Johto,245,Suicune,Water,,Legendary,,,No
-3,Hoenn,258,Mudkip,Water,,0,,5 km,No
-3,Hoenn,259,Marshtomp,Water,Ground,0,,,No
-3,Hoenn,260,Swampert,Water,Ground,0,,,No
-3,Hoenn,270,Lotad,Water,Grass,0,,5 km,No
-3,Hoenn,271,Lombre,Water,Grass,0,,,No
-3,Hoenn,272,Ludicolo,Water,Grass,0,,,No
-3,Hoenn,278,Wingull,Water,Flying,0,,5 km,Yes
-3,Hoenn,279,Pelipper,Water,Flying,0,,,Yes
-3,Hoenn,318,Carvanha,Water,Dark,0,,5 km,No
-3,Hoenn,319,Sharpedo,Water,Dark,0,,,No
-3,Hoenn,320,Wailmer,Water,,0,,2 km,Yes
-3,Hoenn,321,Wailord,Water,,0,,,Yes
-3,Hoenn,339,Barboach,Water,Ground,0,,2 km,No
-3,Hoenn,340,Whiscash,Water,Ground,0,,,No
-3,Hoenn,341,Corphish,Water,,0,,5 km,No
-3,Hoenn,342,Crawdaunt,Water,Dark,0,,,No
-3,Hoenn,349,Feebas,Water,,0,,,No
-3,Hoenn,350,Milotic,Water,,0,,,No
-3,Hoenn,366,Clamperl,Water,,0,,,No
-3,Hoenn,367,Huntail,Water,,0,,,No
-3,Hoenn,368,Gorebyss,Water,,0,,,No
-3,Hoenn,369,Relicanth,Water,Rock,0,New Zealand,,No
-3,Hoenn,370,Luvdisc,Water,,0,,,Yes
-3,Hoenn,382,Kyogre,Water,,Legendary,,,Yes
-4,Sinnoh,393,Piplup,Water,,0,,,No
-4,Sinnoh,394,Prinplup,Water,,0,,,No
-4,Sinnoh,395,Empoleon,Water,Steel,0,,,No
-4,Sinnoh,418,Buizel,Water,,0,,,No
-4,Sinnoh,419,Floatzel,Water,,0,,,No
-4,Sinnoh,422,Shellos,Water,,0,,,No
-4,Sinnoh,423,Gastrodon,Water,Ground,0,,,No
-4,Sinnoh,456,Finneon,Water,,0,,,No
-4,Sinnoh,457,Lumineon,Water,,0,,,No
-4,Sinnoh,458,Mantyke,Water,Flying,0,,,No
-4,Sinnoh,484,Palkia,Water,Dragon,Legendary,,,No
-4,Sinnoh,489,Phione,Water,,Mythical,,,No
-4,Sinnoh,490,Manaphy,Water,,Mythical,,,No
-5,Unova,501,Oshawott,Water,,0,,,No
-5,Unova,502,Dewott,Water,,0,,,No
-5,Unova,503,Samurott,Water,,0,,,No
-5,Unova,515,Panpour,Water,,0,,,No
-5,Unova,516,Simipour,Water,,0,,,No
-5,Unova,535,Tympole,Water,,0,,,No
-5,Unova,536,Palpitoad,Water,Ground,0,,,No
-5,Unova,537,Seismitoad,Water,Ground,0,,,No
-5,Unova,550,Basculin,Water,,0,,,No
-5,Unova,564,Tirtouga,Water,Rock,0,,,No
-5,Unova,565,Carracosta,Water,Rock,0,,,No
-5,Unova,580,Ducklett,Water,Flying,0,,,No
-5,Unova,581,Swanna,Water,Flying,0,,,No
-5,Unova,592,Frillish,Water,Ghost,0,,,No
-5,Unova,593,Jellicent,Water,Ghost,0,,,No
-5,Unova,594,Alomomola,Water,,0,,,No
-5,Unova,647,Keldeo,Water,Fighting,Mythical,,,No
-6,Kalos,656,Froakie,Water,,0,,,No
-6,Kalos,657,Frogadier,Water,,0,,,No
-6,Kalos,658,Greninja,Water,Dark,0,,,No
-6,Kalos,692,Clauncher,Water,,0,,,No
-6,Kalos,693,Clawitzer,Water,,0,,,No
-7,Alola,728,Popplio,Water,,0,,,No
-7,Alola,729,Brionne,Water,,0,,,No
-7,Alola,730,Primarina,Water,Fairy,0,,,No
-7,Alola,746,Wishiwashi,Water,,0,,,No
-7,Alola,751,Dewpider,Water,Bug,0,,,No
-7,Alola,752,Araquanid,Water,Bug,0,,,No
-7,Alola,771,Pyukumuku,Water,,0,,,No
-7,Alola,779,Bruxish,Water,Psychic,0,,,No
-7,Alola,788,Tapu Fini,Water,Fairy,Legendary,,,No
+generation,region,number,Name,type_1,type_2,lenegdary_status,regional,egg_distance,shiny,max_cp,min_cp
+1,Kanto,1,Bulbasaur,Grass,Poison,Not legendary,,Not available from eggs,Shiny,1115,878
+1,Kanto,2,Ivysaur,Grass,Poison,Not legendary,,Not available from eggs,Shiny,1699,1404
+1,Kanto,3,Venusaur,Grass,Poison,Not legendary,,Not available from eggs,Shiny,2720,2343
+1,Kanto,4,Charmander,Fire,No type,Not legendary,,Not available from eggs,Shiny,980,758
+1,Kanto,5,Charmeleon,Fire,No type,Not legendary,,Not available from eggs,Shiny,1653,1361
+1,Kanto,6,Charizard,Fire,Flying,Not legendary,,Not available from eggs,Shiny,2889,2498
+1,Kanto,7,Squirtle,Water,No type,Not legendary,,Not available from eggs,Shiny,946,727
+1,Kanto,8,Wartortle,Water,No type,Not legendary,,Not available from eggs,Shiny,1488,1211
+1,Kanto,9,Blastoise,Water,No type,Not legendary,,Not available from eggs,Shiny,2466,2106
+1,Kanto,10,Caterpie,Bug,No type,Not legendary,,Not available from eggs,Shiny,437,288
+1,Kanto,11,Metapod,Bug,No type,Not legendary,,Not available from eggs,Not shiny,450,294
+1,Kanto,12,Butterfree,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1827,1519
+1,Kanto,13,Weedle,Bug,No type,Not legendary,,Not available from eggs,Not shiny,456,304
+1,Kanto,14,Kakuna,Bug,No type,Not legendary,,Not available from eggs,Not shiny,432,281
+1,Kanto,15,Beedrill,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1846,1536
+1,Kanto,16,Pidgey,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,680,496
+1,Kanto,17,Pidgeotto,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1194,947
+1,Kanto,18,Pidgeot,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2129,1796
+1,Kanto,19,Rattata,Normal,No type,Not legendary,,Not available from eggs,Not shiny,734,543
+1,Kanto,20,Raticate,Normal,No type,Not legendary,,Not available from eggs,Not shiny,734,543
+1,Kanto,21,Spearow,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1730,1432
+1,Kanto,22,Fearow,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1705,1407
+1,Kanto,23,Ekans,Poison,No type,Not legendary,,Not available from eggs,Not shiny,798,593
+1,Kanto,24,Arbok,Poison,No type,Not legendary,,Not available from eggs,Not shiny,1997,1673
+1,Kanto,25,Pikachu,Electric,No type,Not legendary,,Not available from eggs,Shiny,927,712
+1,Kanto,26,Raichu,Electric,No type,Not legendary,,Not available from eggs,Shiny,1921,1606
+1,Kanto,27,Sandshrew,Ground,No type,Not legendary,,Not available from eggs,Not shiny,938,722
+1,Kanto,28,Sandslash,Ground,No type,Not legendary,,Not available from eggs,Not shiny,2182,1844
+1,Kanto,29,Nidoran♀,Poison,No type,Not legendary,,Not available from eggs,Shiny,2286,1939
+1,Kanto,30,Nidorina,Poison,No type,Not legendary,,Not available from eggs,Shiny,1261,1009
+1,Kanto,31,Nidoqueen,Poison,Ground,Not legendary,,Not available from eggs,Shiny,1293,1037
+1,Kanto,32,Nidoran♂,Poison,No type,Not legendary,,Not available from eggs,Not shiny,2374,2023
+1,Kanto,33,Nidorino,Poison,No type,Not legendary,,Not available from eggs,Not shiny,2432,2076
+1,Kanto,34,Nidoking,Poison,Ground,Not legendary,,Not available from eggs,Not shiny,816,612
+1,Kanto,35,Clefairy,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,1309,1049
+1,Kanto,36,Clefable,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,2488,2127
+1,Kanto,37,Vulpix,Fire,No type,Not legendary,,Not available from eggs,Not shiny,860,651
+1,Kanto,38,Ninetales,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1393,1125
+1,Kanto,39,Jigglypuff,Normal,Fairy,Not legendary,,Not available from eggs,Not shiny,2567,2199
+1,Kanto,40,Wigglytuff,Normal,Fairy,Not legendary,,Not available from eggs,Not shiny,1155,910
+1,Kanto,41,Zubat,Poison,Flying,Not legendary,,Not available from eggs,Not shiny,2437,2079
+1,Kanto,42,Golbat,Poison,Flying,Not legendary,,Not available from eggs,Not shiny,883,674
+1,Kanto,43,Oddish,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,883,674
+1,Kanto,44,Gloom,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,2279,1935
+1,Kanto,45,Vileplume,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,2309,1962
+1,Kanto,46,Paras,Bug,Grass,Not legendary,,Not available from eggs,Not shiny,724,506
+1,Kanto,47,Parasect,Bug,Grass,Not legendary,,Not available from eggs,Not shiny,1926,1587
+1,Kanto,48,Venonat,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,667,485
+1,Kanto,49,Venomoth,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,1976,1656
+1,Kanto,50,Diglett,Ground,No type,Not legendary,,Not available from eggs,Not shiny,1228,979
+1,Kanto,51,Dugtrio,Ground,No type,Not legendary,,Not available from eggs,Not shiny,1681,1387
+1,Kanto,52,Meowth,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2559,2193
+1,Kanto,53,Persian,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1018,792
+1,Kanto,54,Psyduck,Water,No type,Not legendary,,Not available from eggs,Not shiny,1859,1550
+1,Kanto,55,Golduck,Water,No type,Not legendary,,Not available from eggs,Not shiny,1004,777
+1,Kanto,56,Mankey,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2082,1753
+1,Kanto,57,Primeape,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,676,492
+1,Kanto,58,Growlithe,Fire,No type,Not legendary,,Not available from eggs,Shiny,690,504
+1,Kanto,59,Arcanine,Fire,No type,Not legendary,,Not available from eggs,Shiny,1557,1272
+1,Kanto,60,Poliwag,Water,No type,Not legendary,,Not available from eggs,Not shiny,1915,1592
+1,Kanto,61,Poliwhirl,Water,No type,Not legendary,,Not available from eggs,Not shiny,748,555
+1,Kanto,62,Poliwrath,Water,Fighting,Not legendary,,Not available from eggs,Not shiny,797,598
+1,Kanto,63,Abra,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1689,1394
+1,Kanto,64,Kadabra,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1771,1469
+1,Kanto,65,Alakazam,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1106,869
+1,Kanto,66,Machop,Fighting,No type,Not legendary,,2 km,Not shiny,2450,2092
+1,Kanto,67,Machoke,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1164,916
+1,Kanto,68,Machamp,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2288,1939
+1,Kanto,69,Bellsprout,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,1243,989
+1,Kanto,70,Weepinbell,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,3029,2628
+1,Kanto,71,Victreebel,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,829,625
+1,Kanto,72,Tentacool,Water,Poison,Not legendary,,Not available from eggs,Not shiny,1419,1149
+1,Kanto,73,Tentacruel,Water,Poison,Not legendary,,Not available from eggs,Not shiny,2586,2218
+1,Kanto,74,Geodude,Rock,Ground,Not legendary,,Not available from eggs,Shiny,1342,1063
+1,Kanto,75,Graveler,Rock,Ground,Not legendary,,Not available from eggs,Shiny,2059,1716
+1,Kanto,76,Golem,Rock,Ground,Not legendary,,Not available from eggs,Shiny,3057,2642
+1,Kanto,77,Ponyta,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1278,1016
+1,Kanto,78,Rapidash,Fire,No type,Not legendary,,Not available from eggs,Not shiny,2031,1703
+1,Kanto,79,Slowpoke,Water,Psychic,Not legendary,,Not available from eggs,Not shiny,3056,2651
+1,Kanto,80,Slowbro,Water,Psychic,Not legendary,,Not available from eggs,Not shiny,1033,793
+1,Kanto,81,Magnemite,Electric,Steel,Not legendary,,Not available from eggs,Not shiny,1611,1315
+1,Kanto,82,Magneton,Electric,Steel,Not legendary,,Not available from eggs,Not shiny,2431,2070
+1,Kanto,83,Farfetch'd,Normal,Flying,Not legendary,Asia,Not available from eggs,Not shiny,1040,810
+1,Kanto,84,Doduo,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2422,2066
+1,Kanto,85,Dodrio,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1293,1037
+1,Kanto,86,Seel,Water,No type,Not legendary,,Not available from eggs,Not shiny,1293,1037
+1,Kanto,87,Dewgong,Water,Ice,Not legendary,,Not available from eggs,Not shiny,1897,1584
+1,Kanto,88,Grimer,Poison,No type,Not legendary,,Not available from eggs,Shiny,1897,1584
+1,Kanto,89,Muk,Poison,No type,Not legendary,,Not available from eggs,Shiny,2949,2556
+1,Kanto,90,Shellder,Water,No type,Not legendary,,2 km,Shiny,2949,2556
+1,Kanto,91,Cloyster,Water,Ice,Not legendary,,Not available from eggs,Shiny,1697,1400
+1,Kanto,92,Gastly,Ghost,Poison,Not legendary,,Not available from eggs,Not shiny,2461,2100
+1,Kanto,93,Haunter,Ghost,Poison,Not legendary,,Not available from eggs,Not shiny,1226,969
+1,Kanto,94,Gengar,Ghost,Poison,Not legendary,,Not available from eggs,Not shiny,2545,2179
+1,Kanto,95,Onix,Rock,Ground,Not legendary,,5 km,Not shiny,1362,1093
+1,Kanto,96,Drowzee,Psychic,No type,Not legendary,,Not available from eggs,Shiny,2485,2119
+1,Kanto,97,Hypno,Psychic,No type,Not legendary,,Not available from eggs,Shiny,1236,986
+1,Kanto,98,Krabby,Water,No type,Not legendary,,Not available from eggs,Shiny,1200,947
+1,Kanto,99,Kingler,Water,No type,Not legendary,,Not available from eggs,Shiny,2362,2005
+1,Kanto,100,Voltorb,Electric,No type,Not legendary,,Not available from eggs,Not shiny,971,745
+1,Kanto,101,Electrode,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1985,1661
+1,Kanto,102,Exeggcute,Grass,Psychic,Not legendary,,Not available from eggs,Not shiny,1374,1102
+1,Kanto,103,Exeggutor,Grass,Psychic,Not legendary,,Not available from eggs,Not shiny,1374,1102
+1,Kanto,104,Cubone,Ground,No type,Not legendary,,Not available from eggs,Not shiny,2757,2375
+1,Kanto,105,Marowak,Ground,No type,Not legendary,,Not available from eggs,Not shiny,2757,2375
+1,Kanto,106,Hitmonlee,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1080,847
+1,Kanto,107,Hitmonchan,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2547,2175
+1,Kanto,108,Lickitung,Normal,No type,Not legendary,,5 km,Not shiny,1229,960
+1,Kanto,109,Koffing,Poison,No type,Not legendary,,Not available from eggs,Not shiny,1963,1629
+1,Kanto,110,Weezing,Poison,No type,Not legendary,,Not available from eggs,Not shiny,2878,2477
+1,Kanto,111,Rhyhorn,Ground,Rock,Not legendary,,Not available from eggs,Not shiny,1101,851
+1,Kanto,112,Rhydon,Ground,Rock,Not legendary,,Not available from eggs,Not shiny,1040,807
+1,Kanto,113,Chansey,Normal,No type,Not legendary,,10 km,Not shiny,2090,1758
+1,Kanto,114,Tangela,Grass,No type,Not legendary,,5 km,Not shiny,1561,1271
+1,Kanto,115,Kangaskhan,Normal,No type,Not legendary,Australia,Not available from eggs,Not shiny,2829,2436
+1,Kanto,116,Horsea,Water,No type,Not legendary,,Not available from eggs,Not shiny,1010,785
+1,Kanto,117,Seadra,Water,No type,Not legendary,,Not available from eggs,Not shiny,2099,1769
+1,Kanto,118,Goldeen,Water,No type,Not legendary,,Not available from eggs,Not shiny,1175,930
+1,Kanto,119,Seaking,Water,No type,Not legendary,,Not available from eggs,Not shiny,3014,2610
+1,Kanto,120,Staryu,Water,No type,Not legendary,,Not available from eggs,Not shiny,3014,2611
+1,Kanto,121,Starmie,Water,Psychic,Not legendary,,Not available from eggs,Not shiny,1019,789
+1,Kanto,122,Mr. Mime,Psychic,Fairy,Not legendary,Europe,Not available from eggs,Not shiny,1835,1527
+1,Kanto,123,Scyther,Bug,Flying,Not legendary,,5 km,Not shiny,1835,1527
+1,Kanto,124,Jynx,Ice,Psychic,Not legendary,,Not available from eggs,Not shiny,2576,2203
+1,Kanto,125,Electabuzz,Electric,No type,Not legendary,,Not available from eggs,Not shiny,2332,1980
+1,Kanto,126,Magmar,Fire,No type,Not legendary,,Not available from eggs,Shiny,1411,1135
+1,Kanto,127,Pinsir,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1214,966
+1,Kanto,128,Tauros,Normal,No type,Not legendary,North America,Not available from eggs,Not shiny,2293,1947
+1,Kanto,129,Magikarp,Water,No type,Not legendary,,Not available from eggs,Shiny,1651,1358
+1,Kanto,130,Gyarados,Water,Flying,Not legendary,,Not available from eggs,Shiny,3179,2767
+1,Kanto,131,Lapras,Water,Ice,Not legendary,,Not available from eggs,Not shiny,1255,935
+1,Kanto,132,Ditto,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2238,1897
+1,Kanto,133,Eevee,Normal,No type,Not legendary,,5 km,Shiny,2586,2216
+1,Kanto,134,Vaporeon,Water,No type,Not legendary,,Not available from eggs,Shiny,1056,825
+1,Kanto,135,Jolteon,Electric,No type,Not legendary,,Not available from eggs,Shiny,2093,1762
+1,Kanto,136,Flareon,Fire,No type,Not legendary,,Not available from eggs,Shiny,1152,911
+1,Kanto,137,Porygon,Normal,No type,Not legendary,,10 km,Not shiny,2162,1826
+1,Kanto,138,Omanyte,Rock,Water,Not legendary,,5 km,Shiny,1157,914
+1,Kanto,139,Omastar,Rock,Water,Not legendary,,Not available from eggs,Shiny,2584,2215
+1,Kanto,140,Kabuto,Rock,Water,Not legendary,,5 km,Shiny,2228,1880
+1,Kanto,141,Kabutops,Rock,Water,Not legendary,,Not available from eggs,Shiny,2706,2328
+1,Kanto,142,Aerodactyl,Rock,Flying,Not legendary,,Not available from eggs,Shiny,2555,2185
+1,Kanto,143,Snorlax,Normal,No type,Not legendary,,Not available from eggs,Shiny,2334,1984
+1,Kanto,144,Articuno,Ice,Flying,Legendary,,Not available from eggs,Shiny,2394,2038
+1,Kanto,145,Zapdos,Electric,Flying,Legendary,,Not available from eggs,Shiny,2959,2560
+1,Kanto,146,Moltres,Fire,Flying,Legendary,,Not available from eggs,Shiny,2620,2250
+1,Kanto,147,Dratini,Dragon,No type,Not legendary,,10 km,Shiny,274,153
+1,Kanto,148,Dragonair,Dragon,No type,Not legendary,,Not available from eggs,Shiny,3391,2966
+1,Kanto,149,Dragonite,Dragon,Flying,Not legendary,,Not available from eggs,Shiny,2641,2262
+1,Kanto,150,Mewtwo,Psychic,No type,Legendary,,Not available from eggs,Not shiny,832,627
+1,Kanto,151,Mew ,Psychic,No type,Mythical,,Not available from eggs,Not shiny,1071,838
+2,Johto,152,Chikorita,Grass,No type,Not legendary,,Not available from eggs,Shiny,3114,2703
+2,Johto,153,Bayleef,Grass,No type,Not legendary,,Not available from eggs,Shiny,2888,2495
+2,Johto,154,Meganium,Grass,No type,Not legendary,,Not available from eggs,Shiny,3029,2624
+2,Johto,155,Cyndaquil,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1720,1422
+2,Johto,156,Quilava,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1544,1261
+2,Johto,157,Typhlosion,Fire,No type,Not legendary,,Not available from eggs,Not shiny,2786,2403
+2,Johto,158,Totodile,Water,No type,Not legendary,,Not available from eggs,Not shiny,1370,1104
+2,Johto,159,Croconaw,Water,No type,Not legendary,,Not available from eggs,Not shiny,2713,2333
+2,Johto,160,Feraligatr,Water,No type,Not legendary,,Not available from eggs,Not shiny,2783,2399
+2,Johto,161,Sentret,Normal,No type,Not legendary,,Not available from eggs,Not shiny,3225,2802
+2,Johto,162,Furret,Normal,No type,Not legendary,,Not available from eggs,Not shiny,3051,2650
+2,Johto,163,Hoothoot,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,3527,3092
+2,Johto,164,Noctowl,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,3465,3034
+2,Johto,165,Ledyba,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1004,779
+2,Johto,166,Ledian,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1780,1477
+2,Johto,167,Spinarak,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,3792,3341
+2,Johto,168,Ariados,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,4178,3697
+2,Johto,169,Crobat,Poison,Flying,Not legendary,,Not available from eggs,Not shiny,3265,2851
+2,Johto,170,Chinchou,Water,Electric,Not legendary,,Not available from eggs,Not shiny,935,718
+2,Johto,171,Lanturn,Water,Electric,Not legendary,,Not available from eggs,Not shiny,1454,1181
+2,Johto,172,Pichu,Electric,No type,Not legendary,,2 km,Shiny,2410,2055
+2,Johto,173,Cleffa,Fairy,No type,Not legendary,,2 km,Not shiny,980,758
+2,Johto,174,Igglybuff,Normal,Fairy,Not legendary,,2 km,Not shiny,1653,1361
+2,Johto,175,Togepi,Fairy,No type,Not legendary,,2 km,Shiny,2889,2498
+2,Johto,176,Togetic,Fairy,Flying,Not legendary,,Not available from eggs,Shiny,1131,892
+2,Johto,177,Natu,Psychic,Flying,Not legendary,,Not available from eggs,Shiny,1722,1425
+2,Johto,178,Xatu,Psychic,Flying,Not legendary,,Not available from eggs,Shiny,2857,2470
+2,Johto,179,Mareep,Electric,No type,Not legendary,,10 km,Shiny,618,444
+2,Johto,180,Flaaffy,Electric,No type,Not legendary,,Not available from eggs,Shiny,1758,1454
+2,Johto,181,Ampharos,Electric,No type,Not legendary,,Not available from eggs,Shiny,677,488
+2,Johto,182,Bellossom,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2024,1696
+2,Johto,183,Marill,Water,Fairy,Not legendary,,Not available from eggs,Not shiny,728,535
+2,Johto,184,Azumarill,Water,Fairy,Not legendary,,Not available from eggs,Not shiny,1346,1080
+2,Johto,185,Sudowoodo,Rock,No type,Not legendary,,Not available from eggs,Not shiny,816,613
+2,Johto,186,Politoed,Water,No type,Not legendary,,Not available from eggs,Not shiny,1772,1468
+2,Johto,187,Hoppip,Grass,Flying,Not legendary,,Not available from eggs,Not shiny,2646,2274
+2,Johto,188,Skiploom,Grass,Flying,Not legendary,,Not available from eggs,Not shiny,1119,877
+2,Johto,189,Jumpluff,Grass,Flying,Not legendary,,Not available from eggs,Not shiny,2085,1747
+2,Johto,190,Aipom,Normal,No type,Not legendary,,Not available from eggs,Not shiny,473,322
+2,Johto,191,Sunkern,Grass,No type,Not legendary,,Not available from eggs,Shiny,671,487
+2,Johto,192,Sunflora,Grass,No type,Not legendary,,Not available from eggs,Shiny,535,350
+2,Johto,193,Yanma,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,657,474
+2,Johto,194,Wooper,Water,Ground,Not legendary,,Not available from eggs,Not shiny,1708,1411
+2,Johto,195,Quagsire,Water,Ground,Not legendary,,Not available from eggs,Not shiny,1102,864
+2,Johto,196,Espeon,Psychic,No type,Not legendary,,Not available from eggs,Shiny,2188,1849
+2,Johto,197,Umbreon,Dark,No type,Not legendary,,Not available from eggs,Shiny,991,764
+2,Johto,198,Murkrow,Dark,Flying,Not legendary,,Not available from eggs,Shiny,1521,1240
+2,Johto,199,Slowking,Water,Psychic,Not legendary,,Not available from eggs,Not shiny,2852,2464
+2,Johto,200,Misdreavus,Ghost,No type,Not legendary,,Not available from eggs,Not shiny,2281,1936
+2,Johto,201,Unown,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,461,292
+2,Johto,202,Wobbuffet,Psychic,No type,Not legendary,,Not available from eggs,Shiny,1588,1293
+2,Johto,203,Girafarig,Normal,Psychic,Not legendary,,Not available from eggs,Not shiny,2148,1814
+2,Johto,204,Pineco,Bug,No type,Not legendary,,Not available from eggs,Shiny,2449,2091
+2,Johto,205,Forretress,Bug,Steel,Not legendary,,Not available from eggs,Shiny,600,427
+2,Johto,206,Dunsparce,Normal,No type,Not legendary,,Not available from eggs,Not shiny,976,752
+2,Johto,207,Gligar,Ground,Flying,Not legendary,,Not available from eggs,Not shiny,1636,1341
+2,Johto,208,Steelix,Steel,Ground,Not legendary,,Not available from eggs,Not shiny,1348,1086
+2,Johto,209,Snubbull,Fairy,No type,Not legendary,,Not available from eggs,Shiny,395,257
+2,Johto,210,Granbull,Fairy,No type,Not legendary,,Not available from eggs,Shiny,2141,1806
+2,Johto,211,Qwilfish,Water,Poison,Not legendary,,Not available from eggs,Not shiny,1470,1190
+2,Johto,212,Scizor,Bug,Steel,Not legendary,,Not available from eggs,Not shiny,641,459
+2,Johto,213,Shuckle,Bug,Rock,Not legendary,,Not available from eggs,Not shiny,1992,1668
+2,Johto,214,Heracross,Bug,Fighting,Not legendary,South America,Not available from eggs,Not shiny,3170,2753
+2,Johto,215,Sneasel,Dark,Ice,Not legendary,,Not available from eggs,Not shiny,2137,1791
+2,Johto,216,Teddiursa,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1562,1269
+2,Johto,217,Ursaring,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2545,2179
+2,Johto,218,Slugma,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1926,1611
+2,Johto,219,Magcargo,Fire,Rock,Not legendary,,Not available from eggs,Not shiny,1185,937
+2,Johto,220,Swinub,Ice,Ground,Not legendary,,2 km,Not shiny,1026,754
+2,Johto,221,Piloswine,Ice,Ground,Not legendary,,Not available from eggs,Not shiny,2046,1719
+2,Johto,222,Corsola,Water,Rock,Not legendary,Tropical,Not available from eggs,Not shiny,1108,872
+2,Johto,223,Remoraid,Water,No type,Not legendary,,Not available from eggs,Not shiny,2282,1936
+2,Johto,224,Octillery,Water,No type,Not legendary,,Not available from eggs,Not shiny,1689,1388
+2,Johto,225,Delibird,Ice,Flying,Not legendary,,Not available from eggs,Not shiny,1857,1546
+2,Johto,226,Mantine,Water,Flying,Not legendary,,5 km,Not shiny,2414,2051
+2,Johto,227,Skarmory,Steel,Flying,Not legendary,,Not available from eggs,Not shiny,1237,982
+2,Johto,228,Houndour,Dark,Fire,Not legendary,,Not available from eggs,Shiny,2552,2180
+2,Johto,229,Houndoom,Dark,Fire,Not legendary,,Not available from eggs,Shiny,2051,1723
+2,Johto,230,Kingdra,Water,Dragon,Not legendary,,Not available from eggs,Not shiny,3001,2600
+2,Johto,231,Phanpy,Ground,No type,Not legendary,,Not available from eggs,Not shiny,405,194
+2,Johto,232,Donphan,Ground,No type,Not legendary,,Not available from eggs,Not shiny,3101,2695
+2,Johto,233,Porygon2,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2051,1723
+2,Johto,234,Stantler,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1328,1064
+2,Johto,235,Smeargle,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2945,2544
+2,Johto,236,Tyrogue,Fighting,No type,Not legendary,,5 km,Not shiny,895,680
+2,Johto,237,Hitmontop,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1702,1404
+2,Johto,238,Smoochum,Ice,Psychic,Not legendary,,Not available from eggs,Not shiny,741,546
+2,Johto,239,Elekid,Electric,No type,Not legendary,,5 km,Not shiny,2345,1992
+2,Johto,240,Magby,Fire,No type,Not legendary,,5 km,Shiny,1378,1112
+2,Johto,241,Miltank,Normal,No type,Not legendary,,Not available from eggs,Not shiny,912,694
+2,Johto,242,Blissey,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2315,1965
+2,Johto,243,Raikou,Electric,No type,Legendary,,Not available from eggs,Not shiny,1094,858
+2,Johto,244,Entei,Fire,No type,Legendary,,Not available from eggs,Not shiny,2108,1774
+2,Johto,245,Suicune,Water,No type,Legendary,,Not available from eggs,Not shiny,2108,1774
+2,Johto,246,Larvitar,Rock,Ground,Not legendary,,10 km,Shiny,1234,978
+2,Johto,247,Pupitar,Rock,Ground,Not legendary,,Not available from eggs,Shiny,2635,2258
+2,Johto,248,Tyranitar,Rock,Ground,Not legendary,,Not available from eggs,Shiny,2641,2270
+2,Johto,249,Lugia,Psychic,Flying,Legendary,,Not available from eggs,Shiny,1206,951
+2,Johto,250,Ho0Oh,Fire,Flying,Legendary,,Not available from eggs,Shiny,3013,2615
+2,Johto,251,Celebi,Psychic,Grass,Mythical,,Not available from eggs,Not shiny,2711,2334
+3,Hoenn,252,Treecko,Grass,No type,Not legendary,,5 km,Not shiny,2164,1826
+3,Hoenn,253,Grovyle,Grass,No type,Not legendary,,Not available from eggs,Not shiny,431,275
+3,Hoenn,254,Sceptile,Grass,No type,Not legendary,,Not available from eggs,Not shiny,492,336
+3,Hoenn,255,Torchic,Fire,No type,Not legendary,,5 km,Not shiny,2156,1819
+3,Hoenn,256,Combusken,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,1291,1031
+3,Hoenn,257,Blaziken,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,1206,958
+3,Hoenn,258,Mudkip,Water,No type,Not legendary,,5 km,Not shiny,1323,1061
+3,Hoenn,259,Marshtomp,Water,Ground,Not legendary,,Not available from eggs,Not shiny,2354,2002
+3,Hoenn,260,Swampert,Water,Ground,Not legendary,,Not available from eggs,Not shiny,2757,2332
+3,Hoenn,261,Poochyena,Dark,No type,Not legendary,,2 km,Shiny,3452,3024
+3,Hoenn,262,Mightyena,Dark,No type,Not legendary,,Not available from eggs,Shiny,3473,3040
+3,Hoenn,263,Zigzagoon,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2983,2585
+3,Hoenn,264,Linoone,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1040,810
+3,Hoenn,265,Wurmple,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1766,1464
+3,Hoenn,266,Silcoon,Bug,No type,Not legendary,,Not available from eggs,Not shiny,3834,3383
+3,Hoenn,267,Beautifly,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,3703,3253
+3,Hoenn,268,Cascoon,Bug,No type,Not legendary,,Not available from eggs,Not shiny,3863,3411
+3,Hoenn,269,Dustox,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,3265,2851
+3,Hoenn,270,Lotad,Water,Grass,Not legendary,,5 km,Not shiny,1053,822
+3,Hoenn,271,Lombre,Water,Grass,Not legendary,,Not available from eggs,Not shiny,1673,1377
+3,Hoenn,272,Ludicolo,Water,Grass,Not legendary,,Not available from eggs,Not shiny,2757,2374
+3,Hoenn,273,Seedot,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1093,856
+3,Hoenn,274,Nuzleaf,Grass,Dark,Not legendary,,Not available from eggs,Not shiny,1652,1359
+3,Hoenn,275,Shiftry,Grass,Dark,Not legendary,,Not available from eggs,Not shiny,2848,2453
+3,Hoenn,276,Taillow,Normal,Flying,Not legendary,,2 km,Not shiny,1128,888
+3,Hoenn,277,Swellow,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1776,1473
+3,Hoenn,278,Wingull,Water,Flying,Not legendary,,5 km,Shiny,2974,2577
+3,Hoenn,279,Pelipper,Water,Flying,Not legendary,,Not available from eggs,Shiny,678,493
+3,Hoenn,280,Ralts,Psychic,Fairy,Not legendary,,Not available from eggs,Not shiny,1926,1609
+3,Hoenn,281,Kirlia,Psychic,Fairy,Not legendary,,Not available from eggs,Not shiny,508,348
+3,Hoenn,282,Gardevoir,Psychic,Fairy,Not legendary,,Not available from eggs,Not shiny,1662,1368
+3,Hoenn,283,Surskit,Bug,Water,Not legendary,,Not available from eggs,Not shiny,578,407
+3,Hoenn,284,Masquerain,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,553,384
+3,Hoenn,285,Shroomish,Grass,No type,Not legendary,,5 km,Not shiny,1765,1454
+3,Hoenn,286,Breloom,Grass,Fighting,Not legendary,,Not available from eggs,Not shiny,553,384
+3,Hoenn,287,Slakoth,Normal,No type,Not legendary,,10 km,Not shiny,1224,969
+3,Hoenn,288,Vigoroth,Normal,No type,Not legendary,,Not available from eggs,Not shiny,598,426
+3,Hoenn,289,Slaking,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1197,950
+3,Hoenn,290,Nincada,Bug,Ground,Not legendary,,Not available from eggs,Not shiny,2323,1975
+3,Hoenn,291,Ninjask,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,598,426
+3,Hoenn,292,Shedinja,Bug,Ghost,Not legendary,,Not available from eggs,Not shiny,1227,969
+3,Hoenn,293,Whismur,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2333,1976
+3,Hoenn,294,Loudred,Normal,No type,Not legendary,,Not available from eggs,Not shiny,765,566
+3,Hoenn,295,Exploud,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1920,1601
+3,Hoenn,296,Makuhita,Fighting,No type,Not legendary,,5 km,Shiny,765,566
+3,Hoenn,297,Hariyama,Fighting,No type,Not legendary,,Not available from eggs,Shiny,2127,1794
+3,Hoenn,298,Azurill,Normal,Fairy,Not legendary,,5 km,Not shiny,539,377
+3,Hoenn,299,Nosepass,Rock,No type,Not legendary,,5 km,Not shiny,966,746
+3,Hoenn,300,Skitty,Normal,No type,Not legendary,,Not available from eggs,Not shiny,3093,2687
+3,Hoenn,301,Delcatty,Normal,No type,Not legendary,,Not available from eggs,Not shiny,791,593
+3,Hoenn,302,Sableye,Dark,Ghost,Not legendary,,Not available from eggs,Shiny,2270,1926
+3,Hoenn,303,Mawile,Steel,Fairy,Not legendary,,Not available from eggs,Shiny,810,603
+3,Hoenn,304,Aron,Steel,Rock,Not legendary,,2 km,Shiny,2628,2248
+3,Hoenn,305,Lairon,Steel,Rock,Not legendary,,Not available from eggs,Shiny,1002,775
+3,Hoenn,306,Aggron,Steel,Rock,Not legendary,,Not available from eggs,Shiny,1968,1648
+3,Hoenn,307,Meditite,Fighting,Psychic,Not legendary,,Not available from eggs,Shiny,4431,3932
+3,Hoenn,308,Medicham,Fighting,Psychic,Not legendary,,Not available from eggs,Shiny,768,571
+3,Hoenn,309,Electrike,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1942,1618
+3,Hoenn,310,Manectric,Electric,No type,Not legendary,,Not available from eggs,Not shiny,393,81
+3,Hoenn,311,Plusle,Electric,No type,Not legendary,,Not available from eggs,Shiny,671,473
+3,Hoenn,312,Minun,Electric,No type,Not legendary,,Not available from eggs,Shiny,1327,1057
+3,Hoenn,313,Volbeat,Bug,No type,Not legendary,Europe,Not available from eggs,Not shiny,2347,1993
+3,Hoenn,314,Illumise,Bug,No type,Not legendary,North America,Not available from eggs,Not shiny,817,602
+3,Hoenn,315,Roselia,Grass,Poison,Not legendary,,Not available from eggs,Shiny,2829,2422
+3,Hoenn,316,Gulpin,Poison,No type,Not legendary,,Not available from eggs,Not shiny,364,221
+3,Hoenn,317,Swalot,Poison,No type,Not legendary,,Not available from eggs,Not shiny,993,758
+3,Hoenn,318,Carvanha,Water,Dark,Not legendary,,5 km,Not shiny,739,545
+3,Hoenn,319,Sharpedo,Water,Dark,Not legendary,,Not available from eggs,Not shiny,1496,1218
+3,Hoenn,320,Wailmer,Water,No type,Not legendary,,2 km,Shiny,1476,1202
+3,Hoenn,321,Wailord,Water,No type,Not legendary,,Not available from eggs,Shiny,1634,1345
+3,Hoenn,322,Numel,Fire,Ground,Not legendary,,5 km,Not shiny,1307,1050
+3,Hoenn,323,Camerupt,Fire,Ground,Not legendary,,Not available from eggs,Not shiny,2056,1728
+3,Hoenn,324,Torkoal,Fire,No type,Not legendary,Asia,Not available from eggs,Not shiny,3000,2600
+3,Hoenn,325,Spoink,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,693,508
+3,Hoenn,326,Grumpig,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1431,1159
+3,Hoenn,327,Spinda,Normal,No type,Not legendary,,Not available from eggs,Not shiny,965,743
+3,Hoenn,328,Trapinch,Ground,No type,Not legendary,,10 km,Not shiny,2340,1984
+3,Hoenn,329,Vibrava,Ground,Dragon,Not legendary,,Not available from eggs,Not shiny,1778,1474
+3,Hoenn,330,Flygon,Grass,Dragon,Not legendary,,Not available from eggs,Not shiny,1694,1399
+3,Hoenn,331,Cacnea,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1771,1469
+3,Hoenn,332,Cacturne,Grass,Dark,Not legendary,,Not available from eggs,Not shiny,1771,1469
+3,Hoenn,333,Swablu,Normal,Flying,Not legendary,,2 km,Shiny,1870,1556
+3,Hoenn,334,Altaria,Dragon,Flying,Not legendary,,Not available from eggs,Shiny,866,652
+3,Hoenn,335,Zangoose,Normal,No type,Not legendary,Rotates,Not available from eggs,Not shiny,1978,1653
+3,Hoenn,336,Seviper,Poison,No type,Not legendary,Rotates,Not available from eggs,Not shiny,1020,754
+3,Hoenn,337,Lunatone,Rock,Psychic,Not legendary,Rotates,Not available from eggs,Not shiny,2181,1813
+3,Hoenn,338,Solrock,Rock,Psychic,Not legendary,Rotates,Not available from eggs,Not shiny,1468,1165
+3,Hoenn,339,Barboach,Water,Ground,Not legendary,,2 km,Not shiny,2280,1899
+3,Hoenn,340,Whiscash,Water,Ground,Not legendary,,Not available from eggs,Not shiny,1057,822
+3,Hoenn,341,Corphish,Water,No type,Not legendary,,5 km,Not shiny,2193,1853
+3,Hoenn,342,Crawdaunt,Water,Dark,Not legendary,,Not available from eggs,Not shiny,2093,1762
+3,Hoenn,343,Baltoy,Ground,Psychic,Not legendary,,5 km,Not shiny,1334,1073
+3,Hoenn,344,Claydol,Ground,Psychic,Not legendary,,Not available from eggs,Not shiny,2369,2018
+3,Hoenn,345,Lileep,Rock,Grass,Not legendary,,5 km,Not shiny,1220,971
+3,Hoenn,346,Cradily,Rock,Grass,Not legendary,,Not available from eggs,Not shiny,1274,1011
+3,Hoenn,347,Anorith,Rock,Bug,Not legendary,,Not available from eggs,Not shiny,1225,974
+3,Hoenn,348,Armaldo,Rock,Bug,Not legendary,,Not available from eggs,Not shiny,2661,2287
+3,Hoenn,349,Feebas,Water,No type,Not legendary,,Not available from eggs,Not shiny,1242,981
+3,Hoenn,350,Milotic,Water,No type,Not legendary,,Not available from eggs,Not shiny,2298,1941
+3,Hoenn,351,Castform,Normal,No type,Not legendary,,Not available from eggs,Not shiny,824,617
+3,Hoenn,352,Kecleon,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2004,1679
+3,Hoenn,353,Shuppet,Ghost,No type,Not legendary,,Not available from eggs,Shiny,2418,2054
+3,Hoenn,354,Banette,Ghost,No type,Not legendary,,Not available from eggs,Shiny,2105,1769
+3,Hoenn,355,Duskull,Ghost,No type,Not legendary,,Not available from eggs,Shiny,2327,1978
+3,Hoenn,356,Dusclops,Ghost,No type,Not legendary,,Not available from eggs,Shiny,2327,1978
+3,Hoenn,357,Tropius,Grass,Flying,Not legendary,Africa,Not available from eggs,Not shiny,819,615
+3,Hoenn,358,Chimecho,Psychic,No type,Not legendary,,10 km,Not shiny,2075,1742
+3,Hoenn,359,Absol,Dark,No type,Not legendary,,Not available from eggs,Shiny,1230,979
+3,Hoenn,360,Wynaut,Psychic,No type,Not legendary,,5 km,Shiny,2474,2108
+3,Hoenn,361,Snorunt,Ice,No type,Not legendary,,Not available from eggs,Shiny,787,586
+3,Hoenn,362,Glalie,Ice,No type,Not legendary,,Not available from eggs,Shiny,1971,1647
+3,Hoenn,363,Spheal,Ice,Water,Not legendary,,2 km,Not shiny,1291,1031
+3,Hoenn,364,Sealeo,Ice,Water,Not legendary,,Not available from eggs,Not shiny,2211,1870
+3,Hoenn,365,Walrein,Ice,Water,Not legendary,,Not available from eggs,Not shiny,1529,1243
+3,Hoenn,366,Clamperl,Water,No type,Not legendary,,Not available from eggs,Not shiny,2848,2460
+3,Hoenn,367,Huntail,Water,No type,Not legendary,,Not available from eggs,Not shiny,274,153
+3,Hoenn,368,Gorebyss,Water,No type,Not legendary,,Not available from eggs,Not shiny,3005,2608
+3,Hoenn,369,Relicanth,Water,Rock,Not legendary,New Zealand,Not available from eggs,Not shiny,1632,1342
+3,Hoenn,370,Luvdisc,Water,No type,Not legendary,,Not available from eggs,Shiny,2047,1721
+3,Hoenn,371,Bagon,Dragon,No type,Not legendary,,10 km,Not shiny,1018,783
+3,Hoenn,372,Shelgon,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,2298,1945
+3,Hoenn,373,Salamence,Dragon,Flying,Not legendary,,Not available from eggs,Not shiny,706,513
+3,Hoenn,374,Beldum,Steel,Psychic,Not legendary,,10 km,Not shiny,1591,1297
+3,Hoenn,375,Metang,Steel,Psychic,Not legendary,,Not available from eggs,Not shiny,1941,1619
+3,Hoenn,376,Metagross,Steel,Psychic,Not legendary,,Not available from eggs,Not shiny,2259,1917
+3,Hoenn,377,Regirock,Rock,No type,Legendary,,Not available from eggs,Not shiny,2526,2148
+3,Hoenn,378,Regice,Ice,No type,Legendary,,Not available from eggs,Not shiny,534,349
+3,Hoenn,379,Registeel,Steel,No type,Legendary,,Not available from eggs,Not shiny,888,676
+3,Hoenn,380,Latias,Dragon,Psychic,Legendary,,Not available from eggs,Not shiny,2105,1775
+3,Hoenn,381,Latios,Dragon,Psychic,Legendary,,Not available from eggs,Not shiny,962,738
+3,Hoenn,382,Kyogre,Water,No type,Legendary,,Not available from eggs,Shiny,1714,1414
+3,Hoenn,383,Groudon,Ground,No type,Legendary,,Not available from eggs,Not shiny,2726,2345
+3,Hoenn,384,Rayquaza,Dragon,Flying,Legendary,,Not available from eggs,Not shiny,1270,1016
+3,Hoenn,385,Jirachi,Steel,Psychic,Mythical,,Not available from eggs,Not shiny,2340,1989
+3,Hoenn,386,Deoxys,Psychic,No type,Mythical,,Not available from eggs,Not shiny,2494,2130
+4,Sinnoh,387,Turtwig,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2528,2162
+4,Sinnoh,388,Grotle,Grass,No type,Not legendary,,Not available from eggs,Not shiny,848,639
+4,Sinnoh,389,Torterra,Grass,Ground,Not legendary,,Not available from eggs,Not shiny,1156,913
+4,Sinnoh,390,Chimchar,Fire,No type,Not legendary,,Not available from eggs,Not shiny,2031,1707
+4,Sinnoh,391,Monferno,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,3749,3295
+4,Sinnoh,392,Infernape,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,976,754
+4,Sinnoh,393,Piplup,Water,No type,Not legendary,,Not available from eggs,Not shiny,1721,1423
+4,Sinnoh,394,Prinplup,Water,No type,Not legendary,,Not available from eggs,Not shiny,3791,3340
+4,Sinnoh,395,Empoleon,Water,Steel,Not legendary,,Not available from eggs,Not shiny,3122,2708
+4,Sinnoh,396,Starly,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,3122,2708
+4,Sinnoh,397,Staravia,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2447,2078
+4,Sinnoh,398,Staraptor,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,3510,3078
+4,Sinnoh,399,Bidoof,Normal,No type,Not legendary,,Not available from eggs,Not shiny,3812,3359
+4,Sinnoh,400,Bibarel,Normal,Water,Not legendary,,Not available from eggs,Not shiny,4115,3645
+4,Sinnoh,401,Kricketot,Bug,No type,Not legendary,,Not available from eggs,Not shiny,4115,3645
+4,Sinnoh,402,Kricketune,Bug,No type,Not legendary,,Not available from eggs,Not shiny,3835,3375
+4,Sinnoh,403,Shinx,Electric,No type,Not legendary,,Not available from eggs,Shiny,3265,2851
+4,Sinnoh,404,Luxio,Electric,No type,Not legendary,,Not available from eggs,Shiny,3160,2704
+4,Sinnoh,405,Luxray,Electric,No type,Not legendary,,Not available from eggs,Shiny,2580,2052
+4,Sinnoh,406,Budew,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,2274,1912
+4,Sinnoh,407,Roserade,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,2879,2482
+4,Sinnoh,408,Cranidos,Rock,No type,Not legendary,,Not available from eggs,Not shiny,1187,941
+4,Sinnoh,409,Rampardos,Rock,No type,Not legendary,,Not available from eggs,Not shiny,1890,1577
+4,Sinnoh,410,Shieldon,Rock,Steel,Not legendary,,Not available from eggs,Not shiny,2934,2542
+4,Sinnoh,411,Bastiodon,Rock,Steel,Not legendary,,Not available from eggs,Not shiny,957,737
+4,Sinnoh,412,Burmy,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1574,1287
+4,Sinnoh,413,Wormadam,Bug,No type,Not legendary,,Not available from eggs,Not shiny,2683,2304
+4,Sinnoh,414,Mothim,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1075,841
+4,Sinnoh,415,Combee,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1701,1405
+4,Sinnoh,416,Vespiquen,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,2900,2510
+4,Sinnoh,417,Pachirisu,Electric,No type,Not legendary,Northern Canada,Not available from eggs,Not shiny,719,526
+4,Sinnoh,418,Buizel,Water,No type,Not legendary,,Not available from eggs,Not shiny,1299,1038
+4,Sinnoh,419,Floatzel,Water,No type,Not legendary,,Not available from eggs,Not shiny,2825,2433
+4,Sinnoh,420,Cherubi,Grass,No type,Not legendary,,Not available from eggs,Not shiny,721,528
+4,Sinnoh,421,Cherrim,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1836,1527
+4,Sinnoh,422,Shellos,Water,No type,Not legendary,,Not available from eggs,Not shiny,401,258
+4,Sinnoh,423,Gastrodon,Water,Ground,Not legendary,,Not available from eggs,Not shiny,1653,1355
+4,Sinnoh,424,Ambipom,Normal,No type,Not legendary,,Not available from eggs,Not shiny,876,661
+4,Sinnoh,425,Drifloon,Ghost,Flying,Not legendary,,Not available from eggs,Not shiny,1486,1205
+4,Sinnoh,426,Drifblim,Ghost,Flying,Not legendary,,Not available from eggs,Not shiny,2888,2494
+4,Sinnoh,427,Buneary,Normal,No type,Not legendary,,Not available from eggs,Not shiny,856,650
+4,Sinnoh,428,Lopunny,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2918,2520
+4,Sinnoh,429,Mismagius,Ghost,No type,Not legendary,,Not available from eggs,Not shiny,1820,1482
+4,Sinnoh,430,Honchkrow,Dark,Flying,Not legendary,,Not available from eggs,Not shiny,3298,2846
+4,Sinnoh,431,Glameow,Normal,No type,Not legendary,,Not available from eggs,Not shiny,890,669
+4,Sinnoh,432,Purugly,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1539,1236
+4,Sinnoh,433,Chingling,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,488,330
+4,Sinnoh,434,Stunky,Poison,Dark,Not legendary,,Not available from eggs,Not shiny,1773,1470
+4,Sinnoh,435,Skuntank,Poison,Dark,Not legendary,,Not available from eggs,Not shiny,1773,1470
+4,Sinnoh,436,Bronzor,Steel,Psychic,Not legendary,,Not available from eggs,Not shiny,1593,1306
+4,Sinnoh,437,Bronzong,Steel,Psychic,Not legendary,,Not available from eggs,Not shiny,1815,1500
+4,Sinnoh,438,Bonsly,Rock,No type,Not legendary,,Not available from eggs,Not shiny,494,339
+4,Sinnoh,439,Mime Jr.,Psychic,Fairy,Not legendary,,Not available from eggs,Not shiny,2005,1682
+4,Sinnoh,440,Happiny,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1213,958
+4,Sinnoh,441,Chatot,Normal,Flying,Not legendary,Southern Hemisphere,Not available from eggs,Not shiny,1054,815
+4,Sinnoh,442,Spiritomb,Ghost,Dark,Not legendary,,Not available from eggs,Not shiny,2443,2073
+4,Sinnoh,443,Gible,Dragon,Ground,Not legendary,,Not available from eggs,Not shiny,950,731
+4,Sinnoh,444,Gabite,Dragon,Ground,Not legendary,,Not available from eggs,Not shiny,2048,1722
+4,Sinnoh,445,Garchomp,Dragon,Ground,Not legendary,,Not available from eggs,Not shiny,1136,891
+4,Sinnoh,446,Munchlax,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2324,1971
+4,Sinnoh,447,Riolu,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2418,2059
+4,Sinnoh,448,Lucario,Fighting,Steel,Not legendary,,Not available from eggs,Not shiny,1197,940
+4,Sinnoh,449,Hippopotas,Ground,No type,Not legendary,,Not available from eggs,Not shiny,2382,2005
+4,Sinnoh,450,Hippowdon,Ground,No type,Not legendary,,Not available from eggs,Not shiny,1258,1005
+4,Sinnoh,451,Skorupi,Poison,Bug,Not legendary,,Not available from eggs,Not shiny,2059,1732
+4,Sinnoh,452,Drapion,Poison,Dark,Not legendary,,Not available from eggs,Not shiny,2615,2243
+4,Sinnoh,453,Croagunk,Poison,Fighting,Not legendary,,Not available from eggs,Not shiny,2711,2310
+4,Sinnoh,454,Toxicroak,Poison,Fighting,Not legendary,,Not available from eggs,Not shiny,934,716
+4,Sinnoh,455,Carnivine,Grass,No type,Not legendary,Southeast USA,Not available from eggs,Not shiny,1953,1634
+4,Sinnoh,456,Finneon,Water,No type,Not legendary,,Not available from eggs,Not shiny,1005,781
+4,Sinnoh,457,Lumineon,Water,No type,Not legendary,,Not available from eggs,Not shiny,1151,906
+4,Sinnoh,458,Mantyke,Water,Flying,Not legendary,,Not available from eggs,Not shiny,2358,2002
+4,Sinnoh,459,Snover,Grass,Ice,Not legendary,,Not available from eggs,Not shiny,603,406
+4,Sinnoh,460,Abomasnow,Grass,Ice,Not legendary,,Not available from eggs,Not shiny,2239,1896
+4,Sinnoh,461,Weavile,Dark,Ice,Not legendary,,Not available from eggs,Not shiny,1302,1045
+4,Sinnoh,462,Magnezone,Electric,Steel,Not legendary,,Not available from eggs,Not shiny,1095,857
+4,Sinnoh,463,Lickilicky,Normal,No type,Not legendary,,Not available from eggs,Not shiny,371,205
+4,Sinnoh,464,Rhyperior,Ground,Rock,Not legendary,,Not available from eggs,Not shiny,1791,1474
+4,Sinnoh,465,Tangrowth,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2072,1742
+4,Sinnoh,466,Electivire,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1112,872
+4,Sinnoh,467,Magmortar,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1874,1561
+4,Sinnoh,468,Togekiss,Fairy,Flying,Not legendary,,Not available from eggs,Not shiny,3962,3501
+4,Sinnoh,469,Yanmega,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,1892,1565
+4,Sinnoh,470,Leafeon,Grass,No type,Not legendary,,Not available from eggs,Not shiny,993,767
+4,Sinnoh,471,Glaceon,Ice,No type,Not legendary,,Not available from eggs,Not shiny,2703,2319
+4,Sinnoh,472,Gliscor,Ground,Flying,Not legendary,,Not available from eggs,Not shiny,1358,1093
+4,Sinnoh,473,Mamoswine,Ice,Ground,Not legendary,,Not available from eggs,Not shiny,3085,2682
+4,Sinnoh,474,Porygon0Z,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1009,781
+4,Sinnoh,475,Gallade,Psychic,Fighting,Not legendary,,Not available from eggs,Not shiny,2453,2095
+4,Sinnoh,476,Probopass,Rock,Steel,Not legendary,,Not available from eggs,Not shiny,952,731
+4,Sinnoh,477,Dusknoir,Ghost,Ghost,Not legendary,,Not available from eggs,Not shiny,2488,2122
+4,Sinnoh,478,Froslass,Ice,Ghost,Not legendary,,Not available from eggs,Not shiny,2159,1822
+4,Sinnoh,479,Rotom,Electric,Ghost,Not legendary,,Not available from eggs,Not shiny,971,750
+4,Sinnoh,480,Uxie,Psychic,No type,Legendary,,Not available from eggs,Not shiny,1814,1507
+4,Sinnoh,481,Mesprit,Psychic,No type,Legendary,,Not available from eggs,Not shiny,1248,992
+4,Sinnoh,482,Azelf,Psychic,No type,Legendary,,Not available from eggs,Not shiny,1159,916
+4,Sinnoh,483,Dialga,Steel,Dragon,Legendary,,Not available from eggs,Not shiny,2362,2010
+4,Sinnoh,484,Palkia,Water,Dragon,Legendary,,Not available from eggs,Not shiny,3005,2602
+4,Sinnoh,485,Heatran,Fire,Steel,Legendary,,Not available from eggs,Not shiny,3205,2791
+4,Sinnoh,486,Regigigas,Normal,No type,Legendary,,Not available from eggs,Not shiny,2467,2104
+4,Sinnoh,487,Giratina,Ghost,Dragon,Legendary,,Not available from eggs,Not shiny,3733,3287
+4,Sinnoh,488,Cresselia,Psychic,No type,Legendary,,Not available from eggs,Not shiny,3030,2630
+4,Sinnoh,489,Phione,Water,No type,Mythical,,Not available from eggs,Not shiny,3079,2671
+4,Sinnoh,490,Manaphy,Water,No type,Mythical,,Not available from eggs,Not shiny,3132,2721
+4,Sinnoh,491,Darkrai,Dark,No type,Mythical,,Not available from eggs,Not shiny,3332,2912
+4,Sinnoh,492,Shaymin,Grass,No type,Mythical,,Not available from eggs,Not shiny,2946,2548
+4,Sinnoh,493,Arceus,Normal,No type,Mythical,,Not available from eggs,Not shiny,2944,2548
+5,Unova,494,Victini,Psychic,Fire,Mythical,,Not available from eggs,Not shiny,1115,878
+5,Unova,495,Snivy,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1699,1404
+5,Unova,496,Servine,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2720,2343
+5,Unova,497,Serperior,Grass,No type,Not legendary,,Not available from eggs,Not shiny,980,758
+5,Unova,498,Tepig,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1653,1361
+5,Unova,499,Pignite,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,2889,2498
+5,Unova,500,Emboar,Fire,Fighting,Not legendary,,Not available from eggs,Not shiny,946,727
+5,Unova,501,Oshawott,Water,No type,Not legendary,,Not available from eggs,Not shiny,1488,1211
+5,Unova,502,Dewott,Water,No type,Not legendary,,Not available from eggs,Not shiny,2466,2106
+5,Unova,503,Samurott,Water,No type,Not legendary,,Not available from eggs,Not shiny,437,288
+5,Unova,504,Patrat,Normal,No type,Not legendary,,Not available from eggs,Not shiny,450,294
+5,Unova,505,Watchog,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1827,1519
+5,Unova,506,Lillipup,Normal,No type,Not legendary,,Not available from eggs,Not shiny,456,304
+5,Unova,507,Herdier,Normal,No type,Not legendary,,Not available from eggs,Not shiny,432,281
+5,Unova,508,Stoutland,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1846,1536
+5,Unova,509,Purrloin,Dark,No type,Not legendary,,Not available from eggs,Not shiny,680,496
+5,Unova,510,Liepard,Dark,No type,Not legendary,,Not available from eggs,Not shiny,1194,947
+5,Unova,511,Pansage,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2129,1796
+5,Unova,512,Simisage,Grass,No type,Not legendary,,Not available from eggs,Not shiny,734,543
+5,Unova,513,Pansear,Fire,No type,Not legendary,,Not available from eggs,Not shiny,734,543
+5,Unova,514,Simisear,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1730,1432
+5,Unova,515,Panpour,Water,No type,Not legendary,,Not available from eggs,Not shiny,1705,1407
+5,Unova,516,Simipour,Water,No type,Not legendary,,Not available from eggs,Not shiny,798,593
+5,Unova,517,Munna,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1997,1673
+5,Unova,518,Musharna,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,927,712
+5,Unova,519,Pidove,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1921,1606
+5,Unova,520,Tranquill,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,938,722
+5,Unova,521,Unfezant,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2182,1844
+5,Unova,522,Blitzle,Electric,No type,Not legendary,,Not available from eggs,Not shiny,2286,1939
+5,Unova,523,Zebstrika,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1261,1009
+5,Unova,524,Roggenrola,Rock,No type,Not legendary,,Not available from eggs,Not shiny,1293,1037
+5,Unova,525,Boldore,Rock,No type,Not legendary,,Not available from eggs,Not shiny,2374,2023
+5,Unova,526,Gigalith,Rock,No type,Not legendary,,Not available from eggs,Not shiny,2432,2076
+5,Unova,527,Woobat,Psychic,Flying,Not legendary,,Not available from eggs,Not shiny,816,612
+5,Unova,528,Swoobat,Psychic,Flying,Not legendary,,Not available from eggs,Not shiny,1309,1049
+5,Unova,529,Drilbur,Ground,No type,Not legendary,,Not available from eggs,Not shiny,2488,2127
+5,Unova,530,Excadrill,Ground,Steel,Not legendary,,Not available from eggs,Not shiny,860,651
+5,Unova,531,Audino,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1393,1125
+5,Unova,532,Timburr,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2567,2199
+5,Unova,533,Gurdurr,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1155,910
+5,Unova,534,Conkeldurr,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2437,2079
+5,Unova,535,Tympole,Water,No type,Not legendary,,Not available from eggs,Not shiny,883,674
+5,Unova,536,Palpitoad,Water,Ground,Not legendary,,Not available from eggs,Not shiny,883,674
+5,Unova,537,Seismitoad,Water,Ground,Not legendary,,Not available from eggs,Not shiny,2279,1935
+5,Unova,538,Throh,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,2309,1962
+5,Unova,539,Sawk,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,724,506
+5,Unova,540,Sewaddle,Bug,Grass,Not legendary,,Not available from eggs,Not shiny,1926,1587
+5,Unova,541,Swadloon,Bug,Grass,Not legendary,,Not available from eggs,Not shiny,667,485
+5,Unova,542,Leavanny,Bug,Grass,Not legendary,,Not available from eggs,Not shiny,1976,1656
+5,Unova,543,Venipede,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,1228,979
+5,Unova,544,Whirlipede,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,1681,1387
+5,Unova,545,Scolipede,Bug,Poison,Not legendary,,Not available from eggs,Not shiny,2559,2193
+5,Unova,546,Cottonee,Grass,Fairy,Not legendary,,Not available from eggs,Not shiny,1018,792
+5,Unova,547,Whimsicott,Grass,Fairy,Not legendary,,Not available from eggs,Not shiny,1859,1550
+5,Unova,548,Petilil,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1004,777
+5,Unova,549,Lilligant,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2082,1753
+5,Unova,550,Basculin,Water,No type,Not legendary,,Not available from eggs,Not shiny,676,492
+5,Unova,551,Sandile,Ground,Dark,Not legendary,,Not available from eggs,Not shiny,690,504
+5,Unova,552,Krokorok,Ground,Dark,Not legendary,,Not available from eggs,Not shiny,1557,1272
+5,Unova,553,Krookodile,Ground,Dark,Not legendary,,Not available from eggs,Not shiny,1915,1592
+5,Unova,554,Darumaka,Fire,No type,Not legendary,,Not available from eggs,Not shiny,748,555
+5,Unova,555,Darmanitan,Fire,No type,Not legendary,,Not available from eggs,Not shiny,797,598
+5,Unova,556,Maractus,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1689,1394
+5,Unova,557,Dwebble,Bug,Rock,Not legendary,,Not available from eggs,Not shiny,1771,1469
+5,Unova,558,Crustle,Bug,Rock,Not legendary,,Not available from eggs,Not shiny,1106,869
+5,Unova,559,Scraggy,Dark,Fighting,Not legendary,,Not available from eggs,Not shiny,2450,2092
+5,Unova,560,Scrafty,Dark,Fighting,Not legendary,,Not available from eggs,Not shiny,1164,916
+5,Unova,561,Sigilyph,Psychic,Flying,Not legendary,,Not available from eggs,Not shiny,2288,1939
+5,Unova,562,Yamask,Ghost,No type,Not legendary,,Not available from eggs,Not shiny,1243,989
+5,Unova,563,Cofagrigus,Ghost,No type,Not legendary,,Not available from eggs,Not shiny,3029,2628
+5,Unova,564,Tirtouga,Water,Rock,Not legendary,,Not available from eggs,Not shiny,829,625
+5,Unova,565,Carracosta,Water,Rock,Not legendary,,Not available from eggs,Not shiny,1419,1149
+5,Unova,566,Archen,Rock,Flying,Not legendary,,Not available from eggs,Not shiny,2586,2218
+5,Unova,567,Archeops,Rock,Flying,Not legendary,,Not available from eggs,Not shiny,1342,1063
+5,Unova,568,Trubbish,Poison,No type,Not legendary,,Not available from eggs,Not shiny,2059,1716
+5,Unova,569,Garbodor,Poison,No type,Not legendary,,Not available from eggs,Not shiny,3057,2642
+5,Unova,570,Zorua,Dark,No type,Not legendary,,Not available from eggs,Not shiny,1278,1016
+5,Unova,571,Zoroark,Dark,No type,Not legendary,,Not available from eggs,Not shiny,2031,1703
+5,Unova,572,Minccino,Normal,No type,Not legendary,,Not available from eggs,Not shiny,3056,2651
+5,Unova,573,Cinccino,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1033,793
+5,Unova,574,Gothita,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1611,1315
+5,Unova,575,Gothorita,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,2431,2070
+5,Unova,576,Gothitelle,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1040,810
+5,Unova,577,Solosis,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,2422,2066
+5,Unova,578,Duosion,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1293,1037
+5,Unova,579,Reuniclus,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1293,1037
+5,Unova,580,Ducklett,Water,Flying,Not legendary,,Not available from eggs,Not shiny,1897,1584
+5,Unova,581,Swanna,Water,Flying,Not legendary,,Not available from eggs,Not shiny,1897,1584
+5,Unova,582,Vanillite,Ice,No type,Not legendary,,Not available from eggs,Not shiny,2949,2556
+5,Unova,583,Vanillish,Ice,No type,Not legendary,,Not available from eggs,Not shiny,2949,2556
+5,Unova,584,Vanilluxe,Ice,No type,Not legendary,,Not available from eggs,Not shiny,1697,1400
+5,Unova,585,Deerling,Normal,Grass,Not legendary,,Not available from eggs,Not shiny,2461,2100
+5,Unova,586,Sawsbuck,Normal,Grass,Not legendary,,Not available from eggs,Not shiny,1226,969
+5,Unova,587,Emolga,Electric,Flying,Not legendary,,Not available from eggs,Not shiny,2545,2179
+5,Unova,588,Karrablast,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1362,1093
+5,Unova,589,Escavalier,Bug,Steel,Not legendary,,Not available from eggs,Not shiny,2485,2119
+5,Unova,590,Foongus,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,1236,986
+5,Unova,591,Amoonguss,Grass,Poison,Not legendary,,Not available from eggs,Not shiny,1200,947
+5,Unova,592,Frillish,Water,Ghost,Not legendary,,Not available from eggs,Not shiny,2362,2005
+5,Unova,593,Jellicent,Water,Ghost,Not legendary,,Not available from eggs,Not shiny,971,745
+5,Unova,594,Alomomola,Water,No type,Not legendary,,Not available from eggs,Not shiny,1985,1661
+5,Unova,595,Joltik,Bug,Electric,Not legendary,,Not available from eggs,Not shiny,1374,1102
+5,Unova,596,Galvantula,Bug,Electric,Not legendary,,Not available from eggs,Not shiny,1374,1102
+5,Unova,597,Ferroseed,Grass,Steel,Not legendary,,Not available from eggs,Not shiny,2757,2375
+5,Unova,598,Ferrothorn,Grass,Steel,Not legendary,,Not available from eggs,Not shiny,2757,2375
+5,Unova,599,Klink,Steel,No type,Not legendary,,Not available from eggs,Not shiny,1080,847
+5,Unova,600,Klang,Steel,No type,Not legendary,,Not available from eggs,Not shiny,2547,2175
+5,Unova,601,Klinklang,Steel,No type,Not legendary,,Not available from eggs,Not shiny,1229,960
+5,Unova,602,Tynamo,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1963,1629
+5,Unova,603,Eelektrik,Electric,No type,Not legendary,,Not available from eggs,Not shiny,2878,2477
+5,Unova,604,Eelektross,Electric,No type,Not legendary,,Not available from eggs,Not shiny,1101,851
+5,Unova,605,Elgyem,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1040,807
+5,Unova,606,Beheeyem,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,2090,1758
+5,Unova,607,Litwick,Ghost,Fire,Not legendary,,Not available from eggs,Not shiny,1561,1271
+5,Unova,608,Lampent,Ghost,Fire,Not legendary,,Not available from eggs,Not shiny,2829,2436
+5,Unova,609,Chandelure,Ghost,Fire,Not legendary,,Not available from eggs,Not shiny,1010,785
+5,Unova,610,Axew,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,2099,1769
+5,Unova,611,Fraxure,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,1175,930
+5,Unova,612,Haxorus,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,3014,2610
+5,Unova,613,Cubchoo,Ice,No type,Not legendary,,Not available from eggs,Not shiny,3014,2611
+5,Unova,614,Beartic,Ice,No type,Not legendary,,Not available from eggs,Not shiny,1019,789
+5,Unova,615,Cryogonal,Ice,No type,Not legendary,,Not available from eggs,Not shiny,1835,1527
+5,Unova,616,Shelmet,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1835,1527
+5,Unova,617,Accelgor,Bug,No type,Not legendary,,Not available from eggs,Not shiny,2576,2203
+5,Unova,618,Stunfisk,Ground,Electric,Not legendary,,Not available from eggs,Not shiny,2332,1980
+5,Unova,619,Mienfoo,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1411,1135
+5,Unova,620,Mienshao,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1214,966
+5,Unova,621,Druddigon,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,2293,1947
+5,Unova,622,Golett,Ground,Ghost,Not legendary,,Not available from eggs,Not shiny,1651,1358
+5,Unova,623,Golurk,Ground,Ghost,Not legendary,,Not available from eggs,Not shiny,3179,2767
+5,Unova,624,Pawniard,Dark,Steel,Not legendary,,Not available from eggs,Not shiny,1255,935
+5,Unova,625,Bisharp,Dark,Steel,Not legendary,,Not available from eggs,Not shiny,2238,1897
+5,Unova,626,Bouffalant,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2586,2216
+5,Unova,627,Rufflet,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1056,825
+5,Unova,628,Braviary,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2093,1762
+5,Unova,629,Vullaby,Dark,Flying,Not legendary,,Not available from eggs,Not shiny,1152,911
+5,Unova,630,Mandibuzz,Dark,Flying,Not legendary,,Not available from eggs,Not shiny,2162,1826
+5,Unova,631,Heatmor,Fire,No type,Not legendary,,Not available from eggs,Not shiny,1157,914
+5,Unova,632,Durant,Bug,Steel,Not legendary,,Not available from eggs,Not shiny,2584,2215
+5,Unova,633,Deino,Dark,Dragon,Not legendary,,Not available from eggs,Not shiny,2228,1880
+5,Unova,634,Zweilous,Dark,Dragon,Not legendary,,Not available from eggs,Not shiny,2706,2328
+5,Unova,635,Hydreigon,Dark,Dragon,Not legendary,,Not available from eggs,Not shiny,2555,2185
+5,Unova,636,Larvesta,Bug,Fire,Not legendary,,Not available from eggs,Not shiny,2334,1984
+5,Unova,637,Volcarona,Bug,Fire,Not legendary,,Not available from eggs,Not shiny,2394,2038
+5,Unova,638,Cobalion,Steel,Fighting,Legendary,,Not available from eggs,Not shiny,2959,2560
+5,Unova,639,Terrakion,Rock,Fighting,Legendary,,Not available from eggs,Not shiny,2620,2250
+5,Unova,640,Virizion,Grass,Fighting,Legendary,,Not available from eggs,Not shiny,274,153
+5,Unova,641,Tornadus,Flying,No type,Legendary,,Not available from eggs,Not shiny,3391,2966
+5,Unova,642,Thundurus,Electric,Flying,Legendary,,Not available from eggs,Not shiny,2641,2262
+5,Unova,643,Reshiram,Dragon,Fire,Legendary,,Not available from eggs,Not shiny,832,627
+5,Unova,644,Zekrom,Dragon,Electric,Legendary,,Not available from eggs,Not shiny,1071,838
+5,Unova,645,Landorus,Ground,Flying,Legendary,,Not available from eggs,Not shiny,3114,2703
+5,Unova,646,Kyurem,Dragon,Ice,Legendary,,Not available from eggs,Not shiny,2888,2495
+5,Unova,647,Keldeo,Water,Fighting,Mythical,,Not available from eggs,Not shiny,3029,2624
+5,Unova,648,Meloetta,Normal,Psychic,Mythical,,Not available from eggs,Not shiny,1720,1422
+5,Unova,649,Genesect,Bug,Steel,Mythical,,Not available from eggs,Not shiny,1544,1261
+6,Kalos,650,Chespin,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2786,2403
+6,Kalos,651,Quiladin,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1370,1104
+6,Kalos,652,Chesnaught,Grass,Fighting,Not legendary,,Not available from eggs,Not shiny,2713,2333
+6,Kalos,653,Fennekin,Fire,No type,Not legendary,,Not available from eggs,Not shiny,2783,2399
+6,Kalos,654,Braixen,Fire,No type,Not legendary,,Not available from eggs,Not shiny,3225,2802
+6,Kalos,655,Delphox,Fire,Psychic,Not legendary,,Not available from eggs,Not shiny,3051,2650
+6,Kalos,656,Froakie,Water,No type,Not legendary,,Not available from eggs,Not shiny,3527,3092
+6,Kalos,657,Frogadier,Water,No type,Not legendary,,Not available from eggs,Not shiny,3465,3034
+6,Kalos,658,Greninja,Water,Dark,Not legendary,,Not available from eggs,Not shiny,1004,779
+6,Kalos,659,Bunnelby,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1780,1477
+6,Kalos,660,Diggersby,Normal,Ground,Not legendary,,Not available from eggs,Not shiny,3792,3341
+6,Kalos,661,Fletchling,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,4178,3697
+6,Kalos,662,Fletchinder,Fire,Flying,Not legendary,,Not available from eggs,Not shiny,3265,2851
+6,Kalos,663,Talonflame,Fire,Flying,Not legendary,,Not available from eggs,Not shiny,935,718
+6,Kalos,664,Scatterbug,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1454,1181
+6,Kalos,665,Spewpa,Bug,No type,Not legendary,,Not available from eggs,Not shiny,2410,2055
+6,Kalos,666,Vivillon,Bug,Flying,Not legendary,,Not available from eggs,Not shiny,980,758
+6,Kalos,667,Litleo,Fire,Normal,Not legendary,,Not available from eggs,Not shiny,1653,1361
+6,Kalos,668,Pyroar,Fire,Normal,Not legendary,,Not available from eggs,Not shiny,2889,2498
+6,Kalos,669,Flabébé,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,1131,892
+6,Kalos,670,Floette,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,1722,1425
+6,Kalos,671,Florges,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,2857,2470
+6,Kalos,672,Skiddo,Grass,No type,Not legendary,,Not available from eggs,Not shiny,618,444
+6,Kalos,673,Gogoat,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1758,1454
+6,Kalos,674,Pancham,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,677,488
+6,Kalos,675,Pangoro,Fighting,Dark,Not legendary,,Not available from eggs,Not shiny,2024,1696
+6,Kalos,676,Furfrou,Normal,No type,Not legendary,,Not available from eggs,Not shiny,728,535
+6,Kalos,677,Espurr,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,1346,1080
+6,Kalos,678,Meowstic,Psychic,No type,Not legendary,,Not available from eggs,Not shiny,816,613
+6,Kalos,679,Honedge,Steel,Ghost,Not legendary,,Not available from eggs,Not shiny,1772,1468
+6,Kalos,680,Doublade,Steel,Ghost,Not legendary,,Not available from eggs,Not shiny,2646,2274
+6,Kalos,681,Aegislash,Steel,Ghost,Not legendary,,Not available from eggs,Not shiny,1119,877
+6,Kalos,682,Spritzee,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,2085,1747
+6,Kalos,683,Aromatisse,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,473,322
+6,Kalos,684,Swirlix,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,671,487
+6,Kalos,685,Slurpuff,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,535,350
+6,Kalos,686,Inkay,Dark,Psychic,Not legendary,,Not available from eggs,Not shiny,657,474
+6,Kalos,687,Malamar,Dark,Psychic,Not legendary,,Not available from eggs,Not shiny,1708,1411
+6,Kalos,688,Binacle,Rock,Water,Not legendary,,Not available from eggs,Not shiny,1102,864
+6,Kalos,689,Barbaracle,Rock,Water,Not legendary,,Not available from eggs,Not shiny,2188,1849
+6,Kalos,690,Skrelp,Poison,Water,Not legendary,,Not available from eggs,Not shiny,991,764
+6,Kalos,691,Dragalge,Poison,Dragon,Not legendary,,Not available from eggs,Not shiny,1521,1240
+6,Kalos,692,Clauncher,Water,No type,Not legendary,,Not available from eggs,Not shiny,2852,2464
+6,Kalos,693,Clawitzer,Water,No type,Not legendary,,Not available from eggs,Not shiny,2281,1936
+6,Kalos,694,Helioptile,Electric,Normal,Not legendary,,Not available from eggs,Not shiny,461,292
+6,Kalos,695,Helioisk,Electric,Normal,Not legendary,,Not available from eggs,Not shiny,1588,1293
+6,Kalos,696,Tyrunt,Rock,Dragon,Not legendary,,Not available from eggs,Not shiny,2148,1814
+6,Kalos,697,Tyrantrum,Rock,Dragon,Not legendary,,Not available from eggs,Not shiny,2449,2091
+6,Kalos,698,Amaura,Rock,Ice,Not legendary,,Not available from eggs,Not shiny,600,427
+6,Kalos,699,Aurorus,Rock,Ice,Not legendary,,Not available from eggs,Not shiny,976,752
+6,Kalos,700,Sylveon,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,1636,1341
+6,Kalos,701,Hawlucha,Fighting,Flying,Not legendary,,Not available from eggs,Not shiny,1348,1086
+6,Kalos,702,Dedenne,Electric,Fairy,Not legendary,,Not available from eggs,Not shiny,395,257
+6,Kalos,703,Carbink,Rock,Fairy,Not legendary,,Not available from eggs,Not shiny,2141,1806
+6,Kalos,704,Goomy,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,1470,1190
+6,Kalos,705,Sliggoo,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,641,459
+6,Kalos,706,Goodra,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,1992,1668
+6,Kalos,707,Klefki,Steel,Fairy,Not legendary,,Not available from eggs,Not shiny,3170,2753
+6,Kalos,708,Phantump,Ghost,Grass,Not legendary,,Not available from eggs,Not shiny,2137,1791
+6,Kalos,709,Trevenant,Ghost,Grass,Not legendary,,Not available from eggs,Not shiny,1562,1269
+6,Kalos,710,Pumpkaboo,Ghost,Grass,Not legendary,,Not available from eggs,Not shiny,2545,2179
+6,Kalos,711,Gourgeist,Ghost,Grass,Not legendary,,Not available from eggs,Not shiny,1926,1611
+6,Kalos,712,Bergmite,Ice,No type,Not legendary,,Not available from eggs,Not shiny,1185,937
+6,Kalos,713,Avalugg,Ice,No type,Not legendary,,Not available from eggs,Not shiny,1026,754
+6,Kalos,714,Noibat,Flying,Dragon,Not legendary,,Not available from eggs,Not shiny,2046,1719
+6,Kalos,715,Noivern,Flying,Dragon,Not legendary,,Not available from eggs,Not shiny,1108,872
+6,Kalos,716,Xerneas,Fairy,No type,Legendary,,Not available from eggs,Not shiny,2282,1936
+6,Kalos,717,Yveltal,Dark,Flying,Legendary,,Not available from eggs,Not shiny,1689,1388
+6,Kalos,718,Zygarde,Dragon,Ground,Legendary,,Not available from eggs,Not shiny,1857,1546
+6,Kalos,719,Diance,Rock,Fairy,Mythical,,Not available from eggs,Not shiny,2414,2051
+6,Kalos,720,Hoopa,Psychic,Ghost,Mythical,,Not available from eggs,Not shiny,1237,982
+6,Kalos,721,Volcanion,Fire,Water,Mythical,,Not available from eggs,Not shiny,2552,2180
+7,Alola,722,Rowlet,Grass,Flying,Not legendary,,Not available from eggs,Not shiny,2051,1723
+7,Alola,723,Dartrix,Grass,Flying,Not legendary,,Not available from eggs,Not shiny,3001,2600
+7,Alola,724,Decidueye,Grass,Ghost,Not legendary,,Not available from eggs,Not shiny,405,194
+7,Alola,725,Litten,Fire,No type,Not legendary,,Not available from eggs,Not shiny,3101,2695
+7,Alola,726,Torracat,Fire,No type,Not legendary,,Not available from eggs,Not shiny,2051,1723
+7,Alola,727,Incineroar,Fire,Dark,Not legendary,,Not available from eggs,Not shiny,1328,1064
+7,Alola,728,Popplio,Water,No type,Not legendary,,Not available from eggs,Not shiny,2945,2544
+7,Alola,729,Brionne,Water,No type,Not legendary,,Not available from eggs,Not shiny,895,680
+7,Alola,730,Primarina,Water,Fairy,Not legendary,,Not available from eggs,Not shiny,1702,1404
+7,Alola,731,Pikipek,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,741,546
+7,Alola,732,Trumbeak,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,2345,1992
+7,Alola,733,Toucannon,Normal,Flying,Not legendary,,Not available from eggs,Not shiny,1378,1112
+7,Alola,734,Yungoos,Normal,No type,Not legendary,,Not available from eggs,Not shiny,912,694
+7,Alola,735,Gumshoos,Normal,No type,Not legendary,,Not available from eggs,Not shiny,2315,1965
+7,Alola,736,Grubbin,Bug,No type,Not legendary,,Not available from eggs,Not shiny,1094,858
+7,Alola,737,Charjabug,Bug,Electric,Not legendary,,Not available from eggs,Not shiny,2108,1774
+7,Alola,738,Vikavolt,Bug,Electric,Not legendary,,Not available from eggs,Not shiny,2108,1774
+7,Alola,739,Crabrawler,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1234,978
+7,Alola,740,Crabominable,Fighting,Ice,Not legendary,,Not available from eggs,Not shiny,2635,2258
+7,Alola,741,Oricorio,Fire,Flying,Not legendary,,Not available from eggs,Not shiny,2641,2270
+7,Alola,742,Cutiefly,Bug,Fairy,Not legendary,,Not available from eggs,Not shiny,1206,951
+7,Alola,743,Ribombee,Bug,Fairy,Not legendary,,Not available from eggs,Not shiny,3013,2615
+7,Alola,744,Rockruff,Rock,No type,Not legendary,,Not available from eggs,Not shiny,2711,2334
+7,Alola,745,Lycanroc,Rock,No type,Not legendary,,Not available from eggs,Not shiny,2164,1826
+7,Alola,746,Wishiwashi,Water,No type,Not legendary,,Not available from eggs,Not shiny,431,275
+7,Alola,747,Mareanie,Poison,Water,Not legendary,,Not available from eggs,Not shiny,492,336
+7,Alola,748,Toxapex,Poison,Water,Not legendary,,Not available from eggs,Not shiny,2156,1819
+7,Alola,749,Mudbray,Ground,No type,Not legendary,,Not available from eggs,Not shiny,1291,1031
+7,Alola,750,Mudsdale,Ground,No type,Not legendary,,Not available from eggs,Not shiny,1206,958
+7,Alola,751,Dewpider,Water,Bug,Not legendary,,Not available from eggs,Not shiny,1323,1061
+7,Alola,752,Araquanid,Water,Bug,Not legendary,,Not available from eggs,Not shiny,2354,2002
+7,Alola,753,Fomantis,Grass,No type,Not legendary,,Not available from eggs,Not shiny,2757,2332
+7,Alola,754,Lurantis,Grass,No type,Not legendary,,Not available from eggs,Not shiny,3452,3024
+7,Alola,755,Morelull,Grass,Fairy,Not legendary,,Not available from eggs,Not shiny,3473,3040
+7,Alola,756,Shiinotic,Grass,Fairy,Not legendary,,Not available from eggs,Not shiny,2983,2585
+7,Alola,757,Salandit,Poison,Fire,Not legendary,,Not available from eggs,Not shiny,1040,810
+7,Alola,758,Salazzle,Poison,Fire,Not legendary,,Not available from eggs,Not shiny,1766,1464
+7,Alola,759,Stufful,Normal,Fighting,Not legendary,,Not available from eggs,Not shiny,3834,3383
+7,Alola,760,Bewear,Normal,Fighting,Not legendary,,Not available from eggs,Not shiny,3703,3253
+7,Alola,761,Bounsweet,Grass,No type,Not legendary,,Not available from eggs,Not shiny,3863,3411
+7,Alola,762,Steenee,Grass,No type,Not legendary,,Not available from eggs,Not shiny,3265,2851
+7,Alola,763,Tsareena,Grass,No type,Not legendary,,Not available from eggs,Not shiny,1053,822
+7,Alola,764,Comfey,Fairy,No type,Not legendary,,Not available from eggs,Not shiny,1673,1377
+7,Alola,765,Oranguru,Normal,Psychic,Not legendary,,Not available from eggs,Not shiny,2757,2374
+7,Alola,766,Passimian,Fighting,No type,Not legendary,,Not available from eggs,Not shiny,1093,856
+7,Alola,767,Wimpod,Bug,Water,Not legendary,,Not available from eggs,Not shiny,1652,1359
+7,Alola,768,Golisopod,Bug,Water,Not legendary,,Not available from eggs,Not shiny,2848,2453
+7,Alola,769,Sandygast,Ghost,Ground,Not legendary,,Not available from eggs,Not shiny,1128,888
+7,Alola,770,Palossand,Ghost,Ground,Not legendary,,Not available from eggs,Not shiny,1776,1473
+7,Alola,771,Pyukumuku,Water,No type,Not legendary,,Not available from eggs,Not shiny,2974,2577
+7,Alola,772,Type: Null,Normal,No type,Legendary,,Not available from eggs,Not shiny,678,493
+7,Alola,773,Silvally,Normal,No type,Legendary,,Not available from eggs,Not shiny,1926,1609
+7,Alola,774,Minior,Rock,Flying,Not legendary,,Not available from eggs,Not shiny,508,348
+7,Alola,775,Komala,Normal,No type,Not legendary,,Not available from eggs,Not shiny,1662,1368
+7,Alola,776,Turtonator,Fire,Dragon,Not legendary,,Not available from eggs,Not shiny,578,407
+7,Alola,777,Togedemaru,Electric,Steel,Not legendary,,Not available from eggs,Not shiny,553,384
+7,Alola,778,Mimikyu,Ghost,Fairy,Not legendary,,Not available from eggs,Not shiny,1765,1454
+7,Alola,779,Bruxish,Water,Psychic,Not legendary,,Not available from eggs,Not shiny,553,384
+7,Alola,780,Drampa,Normal,Dragon,Not legendary,,Not available from eggs,Not shiny,1224,969
+7,Alola,781,Dhelmise,Ghost,Grass,Not legendary,,Not available from eggs,Not shiny,598,426
+7,Alola,782,Jangmo0o,Dragon,No type,Not legendary,,Not available from eggs,Not shiny,1197,950
+7,Alola,783,Hakamo0o,Dragon,Fighting,Not legendary,,Not available from eggs,Not shiny,2323,1975
+7,Alola,784,Kommo0o,Dragon,Fighting,Not legendary,,Not available from eggs,Not shiny,598,426
+7,Alola,785,Tapu Koko,Electric,Fairy,Legendary,,Not available from eggs,Not shiny,1227,969
+7,Alola,786,Tapu Lele,Psychic,Fairy,Legendary,,Not available from eggs,Not shiny,2333,1976
+7,Alola,787,Tapu Bulu,Grass,Fairy,Legendary,,Not available from eggs,Not shiny,765,566
+7,Alola,788,Tapu Fini,Water,Fairy,Legendary,,Not available from eggs,Not shiny,1920,1601
+7,Alola,789,Cosmog,Psychic,No type,Legendary,,Not available from eggs,Not shiny,765,566
+7,Alola,790,Cosmoem,Psychic,No type,Legendary,,Not available from eggs,Not shiny,2127,1794
+7,Alola,791,Solgaleo,Psychic,Steel,Legendary,,Not available from eggs,Not shiny,539,377
+7,Alola,792,Lunala,Psychic,Ghost,Legendary,,Not available from eggs,Not shiny,966,746
+7,Alola,793,Nihilego,Rock,Poison,Not legendary,,Not available from eggs,Not shiny,3093,2687
+7,Alola,794,Buzzwole,Bug,Fighting,Not legendary,,Not available from eggs,Not shiny,791,593
+7,Alola,795,Pheromosa,Bug,Fighting,Not legendary,,Not available from eggs,Not shiny,2270,1926
+7,Alola,796,Xurkitree,Electric,No type,Not legendary,,Not available from eggs,Not shiny,810,603
+7,Alola,797,Celesteela,Steel,Flying,Not legendary,,Not available from eggs,Not shiny,2628,2248
+7,Alola,798,Kartana,Grass,Steel,Not legendary,,Not available from eggs,Not shiny,1002,775
+7,Alola,799,Guzzlord,Dark,Dragon,Not legendary,,Not available from eggs,Not shiny,1968,1648
+7,Alola,800,Necrozma,Psychic,No type,Legendary,,Not available from eggs,Not shiny,4431,3932
+7,Alola,801,Magearna,Steel,Fairy,Mythical,,Not available from eggs,Not shiny,768,571
+7,Alola,802,Marshadow,Fighting,Ghost,Mythical,,Not available from eggs,Not shiny,1942,1618
+7,Alola,803,Poipole,Poison,No type,Not legendary,,Not available from eggs,Not shiny,393,81
+7,Alola,804,Naganadel,Poison,Dragon,Not legendary,,Not available from eggs,Not shiny,671,473
+7,Alola,805,Stakataka,Rock,Steel,Not legendary,,Not available from eggs,Not shiny,1327,1057
+7,Alola,806,Blacephalon,Fire,Ghost,Not legendary,,Not available from eggs,Not shiny,2347,1993
+7,Alola,807,Zeraora,Electric,No type,Mythical,,Not available from eggs,Not shiny,817,602

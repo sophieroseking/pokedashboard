@@ -1,35 +1,32 @@
 /* Main page */
 
-html, body{overflow-x: hidden;}
+html,
+body {
+    overflow-x: hidden;
+}
 
 body {
     font-family: 'Montserrat', sans-serif;
 }
 
 main {
-    background-image: url("https://cdn.vox-cdn.com/thumbor/IKt535q8LMnJDddmLL74TBtzv88=/0x266:1024x949/1280x854/cdn.vox-cdn.com/uploads/chorus_image/image/48942277/N3DS_PokemonSuperMysteryDungeon_MainIllustration_png_jpgcopy.0.0.jpg");
-    background-size: cover;
-    background-color: #cccccc;
+    background-color: #efefef
 }
 
-h2 {
-    background-color: #525252;
-    color: #fafafa;
-    text-align: center;
-}
 
 .container-fluid {
     float: none !important;
     text-align: center;
 }
 
+h2 {
+    color: #3E3F3A;
+}
+
 
 /* Navbar */
 
-nav {
-    background-color: #525252;
-    
-}
+
 
 /* Header */
 
@@ -39,17 +36,15 @@ nav {
     width: 100%;
 }
 
+
 /* Chart containers */
-.chart{
-    background-color: rgb(255,255,255,0.7);
+
+.chart {
     text-align: center;
     margin-bottom: 30px;
-    padding: 0;
 }
-.chart-holder {
-    text-align: center;
-    margin-bottom: 10px;
-}
+
+
 
 /* region-selector */
 
@@ -57,49 +52,75 @@ nav {
     float: none !important;
 }
 
-button, select {
+button,
+select {
     width: 300px;
     background-color: white;
 }
 
 /* Top row charts */
 
-#region-balance, #type-balance, #shiny-non-shiny {
+#region-balance,
+#type-balance,
+#shiny-non-shiny {
     float: none !important;
 }
 
 
 /* Fire, grass and water Pokemon rows */
 
-.grass-pokemon {
-    background:
-    linear-gradient(
-      rgba(255, 255, 255, 0.45), 
-      rgba(0, 0, 0, 0.45)
-    ),
-    url("../images/grass-banner.jpg");
-    background-size: contain;
+.grass-pokemon,
+.grass-pokemon h2 {
+    background-color: #3E3F3A;
     color: white;
-    font-size: 25px
-}
-
-.fire-pokemon {
-    background:
-    linear-gradient(
-      rgba(255, 255, 255, 0.45), 
-      rgba(0, 0, 0, 0.45)
-    ),
-    url("../images/fire-banner.jpg");
-    color: white;
-    font-size: 25px
 }
 
 
+.fire-pokemon
+.fire-pokemon h2 {
+    color: #3E3F3A;
+}
+
+.water-pokemon,
+.water-pokemon h2 {
+    background-color: #3E3F3A;
+    color: white;
+    margin-bottom: 30px;
+}
+
+
+.grass-pokemon h2 {
+    margin-bottom: 20px;
+}
+
+/* Egg distance */
+
+#shiny-non-shiny,
+.shiny-words{
+ margin-bottom: 0;
+ padding: 0;
+}
+
+#egg-distance,
+.egg-distance-words {
+    margin-top: 30px;
+    padding: 0;
+}
+
+/* Cp Scatter */
+
+#cp-scatter-plot {
+    margin-bottom: 0;
+}
+
+.cp-paragraph {
+    width: 600px;
+}
 
 /*Footer*/
 
 footer {
-    background-color: #525252;
+    background-color: #3E3F3A;
     color: white;
 }
 
@@ -111,13 +132,9 @@ footer p {
 /* Media queries */
 
 @media (min-width: 1281px) {
-    .header-image {
-        width: 50%;
-    }
-    .grass-pokemon {
-        font-size: 50px;
-    }
-    .fire-pokemon {
-        font-size: 50px;
-    }
+    #shiny-non-shiny,
+.shiny-words{
+ border-bottom :1px solid black;
+ margin-bottom: 0;
+}
 }

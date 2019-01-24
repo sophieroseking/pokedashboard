@@ -27,125 +27,177 @@
     </nav>
 
     <main>
+
+
         <section class="section">
             <div class="container-fluid">
-
-                <div class="row">
-                    <div class="header col-xs-12 col-sm-12">
+                <div class="row justify-content-center">
+                    <div class="header col-xs-12">
                         <img src="https://fontmeme.com/permalink/190111/77588213fad7fb2f89f9011adae33004.png" alt="pokéDashboard" border="0" class="header-image">
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="container-fluid">
-
-                <div class="row">
-                    <div class="chart col-xs-12 col-md-6 col-lg-4 offset-md-4">
-                        <h2>Select Region</h2>
-                        <div class="chart-holder">
-                            <div id="region-selector">
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
         </section>
 
+        <div class="container-fluid">
+
+            <div class="row">
+                <div class="chart col-xs-12 col-md-6 col-lg-4 offset-md-4">
+                    <h2>Select Region</h2>
+                    <div class="chart-holder">
+                        <div id="region-selector">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
         <section class="section">
+
             <div class="container-fluid">
+                <div class="row  justify-content-center">
+                    <div class="chart col-xs-12 col-sm-6 col-md-5 " id="type-1-percentage">
+                        <h2>Pokémon by primary type</h2>
+                    </div>
+                    <div class="chart col-xs-12 col-sm-6 col-md-5" id="type-2-percentage">
+                        <h2>Pokémon by secondary type</h2>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container-fluid grass-pokemon">
+                <div class="row justify-content-center">
+                    <h2 class="col-xs-12">Percentage of grass Pokémon in each region</h2>
+                </div>
                 <div class="row">
-                    <div class="chart col-xs-12 col-sm-4">
+                    <div id="grass-in-kanto" class="chart col-2">
+                        <h3>Kanto</h3>
+                    </div>
+                    <div id="grass-in-johto" class="chart col-2">
+                        <h3>Johto</h3>
+                    </div>
+                    <div id="grass-in-hoenn" class="chart col-2">
+                        <h3>Hoenn</h3>
+                    </div>
+                    <div id="grass-in-sinnoh" class="chart col-2">
+                        <h3>Sinnoh</h3>
+                    </div>
+                    <div id="grass-in-unova" class="chart col-2">
+                        <h3>Unova</h3>
+                    </div>
+                    <div id="grass-in-kalos" class="chart col-2">
+                        <h3>Kalos</h3>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container-fluid fire-pokemon">
+                <div class="row justify-content-center">
+                    <h2 class="col-xs-12">Percentage of fire Pokémon in each region</h2>
+                </div>
+                <div class="row">
+                    <div id="fire-in-kanto" class="chart  col-2">
+                        <h3>Kanto</h3>
+                    </div>
+                    <div id="fire-in-johto" class="chart col-2">
+                        <h3>Johto</h3>
+                    </div>
+                    <div id="fire-in-hoenn" class="chart col-2">
+                        <h3>Hoenn</h3>
+                    </div>
+                    <div id="fire-in-sinnoh" class="chart col-2">
+                        <h3>Sinnoh</h3>
+                    </div>
+                    <div id="fire-in-unova" class="chart col-2">
+                        <h3>Unova</h3>
+                    </div>
+                    <div id="fire-in-kalos" class="chart col-2">
+                        <h3>Kalos</h3>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container-fluid water-pokemon">
+                <div class="row justify-content-center">
+                    <h2 class="col-xs-12">Percentage of water Pokémon in each region</h2>
+                </div>
+                <div class="row">
+                    <div id="water-in-kanto" class="chart col-2">
+                        <h3>Kanto</h3>
+                    </div>
+                    <div id="water-in-johto" class="chart col-2">
+                        <h3>Johto</h3>
+                    </div>
+                    <div id="water-in-hoenn" class="chart col-2">
+                        <h3>Hoenn</h3>
+                    </div>
+                    <div id="water-in-sinnoh" class="chart col-2">
+                        <h3>Sinnoh</h3>
+                    </div>
+                    <div id="water-in-unova" class="chart col-2">
+                        <h3>Unova</h3>
+                    </div>
+                    <div id="water-in-kalos" class="chart col-2">
+                        <h3>Kalos</h3>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="container-fluid">
+                <div class="row justify-content-center shiny-border">
+                    <div id="shiny-non-shiny" class="chart col-xs-12 col-sm-4">
+                    </div>
+                    <div class="justify-content shiny-words col-xs-12 col-sm-4">
+                         <h2>Percentage of shiny Pokémon</h2>
+                         <br />
+                        <p>Unsurprisingly, there is a much larger portion of non-shiny Pokémon than shiny Pokémon. Not all shiny Pokémon have been released yet, but even the ones that have been are hard to come by. The chance of encountering a shiny Pokémon (excluding during Community Days) is thought to be 1/300 or more. This has fuelled traiding between players as they try to gather as many of the elusive characters as possible.</p>
+                    </div>
+                </div>
+
+
+                <div class="row justify-content-center">
+                    <div class="justify-content egg-distance-words col-xs-12 col-sm-4">
+                        <h2>Egg distances</h2>
+                        <br />
+                        <p>It is very clear here, that not many Pokémon are available through eggs. Surprisgly, the most amount of Pokémon you can hatch are from 5km eggs - it would have been my thought that there would be more 2km egg Pokémon due to the
+                            fact that the most common Pokémon hatch from these eggs.</p>
+                    </div>
+                    <div id="egg-distance" class="chart col-xs-12 col-sm-4">
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div id="region-balance" class="chart col-xs-12 col-sm-5">
                         <h2>Number of Pokémon from each region</h2>
-                        <div class="chart-holder"></div>
-                        <div id="region-balance"></div>
+                        <p>There are 7 regions where Pokémon can originate from, which coincide with the game generations. In the game Pokémon Go, generations 1-3 (Kanto, Johto and Hoenn respectively) have been fully released, with a slow drip release of
+                            Gen 4 (Sinnoh) currently taking place.</p>
                     </div>
-                    <div class="chart col-xs-12 col-sm-4">
-                        <h2>The main types of Pokémon</h2>
-                        <div class="chart-holder"></div>
-                        <div id="type-balance"></div>
-                    </div>
-                    <div class="chart col-xs-12 col-sm-4">
-                        <h2>Number of shiny Pokémon</h2>
-                        <div class="chart-holder"></div>
-                        <div id="shiny-non-shiny"></div>
+                    <div id="type-balance" class="chart col-xs-12 col-sm-5">
+                        <h2>Pokémon type by generation</h2>
+                        <p>This graph shows the percentage of each primary type of Pokémon per generation release or region. </p>
                     </div>
                 </div>
             </div>
-
 
             <div class="container-fluid">
-                <div class="row">
-                    <div class="chart grass-pokemon col-xs-12 col-sm-12 col-lg-12">
-                        <h2>Percentage of grass Pokémon in each region</h2>
-                        <div id="grass-in-kanto" class="col-lg-2">
-                            <h3>Kanto</h3>
-                        </div>
-                        <div id="grass-in-johto" class="col-lg-2">
-                            <h3>Johto</h3>
-                        </div>
-                        <div id="grass-in-hoenn" class="col-lg-2">
-                            <h3>Hoenn</h3>
-                        </div>
-                        <div id="grass-in-sinnoh" class="col-lg-2">
-                            <h3>Sinnoh</h3>
-                        </div>
-                        <div id="grass-in-unova" class="col-lg-2">
-                            <h3>Unova</h3>
-                        </div>
-                        <div id="grass-in-kalos" class="col-lg-2">
-                            <h3>Kalos</h3>
-                        </div>
+                <div class="row justify-content-center">
+                    <div class="chart col-xs-12 col-sm-10" id="cp-scatter-plot">
+                        <h2>The relationship between min and max CP of level 40 Pokémon</h2>
                     </div>
+                    <p class="cp-paragraph">Here we can see that there is a strong positive correlation between the minimum and maximum CP levels for level 40 Pokémon in Pokémon Go.</p>
                 </div>
             </div>
-            
-                        <div class="container-fluid">
-                <div class="row">
-                    <div class="chart fire-pokemon col-xs-12 col-sm-12 col-lg-12">
-                        <h2>Percentage of fire Pokémon in each region</h2>
-                        <div id="fire-in-kanto" class="col-lg-2">
-                            <h3>Kanto</h3>
-                        </div>
-                        <div id="fire-in-johto" class="col-lg-2">
-                            <h3>Johto</h3>
-                        </div>
-                        <div id="fire-in-hoenn" class="col-lg-2">
-                            <h3>Hoenn</h3>
-                        </div>
-                        <div id="fire-in-sinnoh" class="col-lg-2">
-                            <h3>Sinnoh</h3>
-                        </div>
-                        <div id="fire-in-unova" class="col-lg-2">
-                            <h3>Unova</h3>
-                        </div>
-                        <div id="fire-in-kalos" class="col-lg-2">
-                            <h3>Kalos</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-           
-
-            <div class="container-fluid">
-                <div class="row">
-                    <div class="chart col-xs-12 col-sm-6 " id="gender-balance-math">
-                        <h2>The main types of Pokémon</h2>
-                    </div>
-
-                    <div class="chart col-xs-12 col-sm-6" id="type-2-percentage">
-                        <h2>Percentage of the second Pokémon type</h2>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="chart col-xs-12 col-sm-6 offset-md-3" id="">
-                        <h2>Egg chart</h2>
-                    </div>
-                </div>
-            </div>
-            
 
         </section>
 
