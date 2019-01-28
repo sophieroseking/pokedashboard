@@ -367,7 +367,7 @@ function show_type_by_gen(ndx) {
 
 
 
-/* Legendry scatter plot */
+/* CP scatter plot */
 
 function show_cp_scatter(ndx) {
 
