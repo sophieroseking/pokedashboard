@@ -338,13 +338,13 @@ function show_type_by_gen(ndx) {
         .width(450)
         .margins({ top: 10, right: 50, bottom: 30, left: 100 })
         .dimension(typeClass_dim)
-        .group(rankGen1)
-        .stack(rankGen2)
-        .stack(rankGen3)
-        .stack(rankGen4)
-        .stack(rankGen5)
-        .stack(rankGen6)
-        .stack(rankGen7)
+        .group(rankGen1, "Gen 1")
+        .stack(rankGen2, "Gen 2")
+        .stack(rankGen3, "Gen 3")
+        .stack(rankGen4, "Gen 4")
+        .stack(rankGen5, "Gen 5")
+        .stack(rankGen6, "Gen 6")
+        .stack(rankGen7, "Gen 7")
          .valueAccessor(function(d) {
             if (d.value.total > 0) {
                 return (d.value.match / d.value.total) * 100;
@@ -361,11 +361,11 @@ function show_type_by_gen(ndx) {
                 .attr('dx', '-15')
                 .attr('transform', "rotate(-37)");
         })
-        .legend(dc.legend().x(10).y(40).itemHeight(15).gap(5).itemWidth(50)
-        .legendText(dc.pluck('name'))
-        
-        );
+        .legend(dc.legend().x(10).y(40).itemHeight(15).gap(5).itemWidth(50));
+    
 }
+
+
 
 /* Legendry scatter plot */
 
@@ -385,13 +385,11 @@ function show_cp_scatter(ndx) {
     var maxMaxCp = maxCpDim.top(1)[0].max_cp;
 
     dc.scatterPlot("#cp-scatter-plot")
-        .width(420)
+        .width(768)
         .x(d3.scale.linear().domain([minMaxCp, maxMaxCp]))
         .brushOn(false)
         .symbolSize(8)
         .clipPadding(10)
-        .xAxisPadding([20])
-        .yAxisLabel("Min CP")
         .xAxisLabel("Max CP")
         .title(function(d) {
             return "The maximum CP for this Pokemon is " + d.key[0] + " and the minimum CP is " + d.key[1];
