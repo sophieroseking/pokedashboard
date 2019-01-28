@@ -106,6 +106,10 @@ select {
 
 /* Cp Scatter */
 
+#cp-scatter-plot svg {
+    overflow: overlay;
+}
+
 /*Footer*/
 
 footer {
