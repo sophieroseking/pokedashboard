@@ -68,7 +68,7 @@ I ensured the charts were linked by clicking on different elements to see if the
 
 
 ## Deployment
-The website has been deployed via GitHub pages, it can be found here.
+The website has been deployed via GitHub pages, it can be found ![here] (https://sophieroseking.github.io/pokedashboard/".)
 
 
 ## Credits
