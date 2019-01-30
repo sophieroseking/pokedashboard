@@ -26,8 +26,8 @@ As a user, I want to be able to view the dashboard on a variety of different scr
 
 I made an original mockup of the design using Balsamiq. This gave me a good idea of where I wanted to position certain things, although I changed this during the process of creating the website to make the project more aesthetically pleasing.
 
-![Mockup screenshot1](https://github.com/sophieroseking/milestone-one/blob/master/assets/mockup/screenshot1.png "Mockup screenshot1")
-![Mockup screenshot2](https://github.com/sophieroseking/milestone-one/blob/master/assets/mockup/screenshot1.png "Mockup screenshot2")
+![Mockup screenshot1](https://github.com/sophieroseking/pokedashboard/blob/master/mockups/mockup1.png "Mockup screenshot1")
+![Mockup screenshot2](https://github.com/sophieroseking/pokedashboard/blob/master/mockups/mockup2.png "Mockup screenshot2")
 
 
 ## Features
