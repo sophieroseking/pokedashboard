@@ -6,7 +6,9 @@ This is a one page dashboard displaying various interesting visual snippets of i
 The brief for the project was
 
 •	Build a data dashboard that visualizes a dataset of your choice
+
 •	Your data can be stored locally (e.g., in a js file) or sourced from an API
+
 •	Visualise your data using D3.js and dc.js
 
 
