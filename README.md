@@ -74,4 +74,4 @@ The website has been deployed via GitHub pages, it can be found [here.](https://
 
 
 ## Credits
-•	Reddit user u/Zifendale had uploaded a Pokedex spreadsheet that I manipulated to get the data I wanted for my dashboard and pushed into a csv file.
+Reddit user **u/Zifendale** had uploaded a Pokedex spreadsheet that I manipulated to get the data I wanted for my dashboard and pushed into a csv file.
