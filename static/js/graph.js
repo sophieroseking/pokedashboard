@@ -385,7 +385,7 @@ function show_cp_scatter(ndx) {
     var maxMaxCp = maxCpDim.top(1)[0].max_cp;
 
     dc.scatterPlot("#cp-scatter-plot")
-        .width(768)
+        .width(650)
         .x(d3.scale.linear().domain([minMaxCp, maxMaxCp]))
         .brushOn(false)
         .symbolSize(8)
