@@ -30,7 +30,6 @@ h3 {
 }
 
 
-
 /* Header */
 
 .header-image {
@@ -49,7 +48,6 @@ h3 {
 }
 
 
-
 /* region-selector */
 
 #region-selector {
@@ -62,14 +60,12 @@ select {
     background-color: white;
 }
 
-/* Top row charts */
 
 /* Fire, grass and water Pokemon rows */
 
 .fa {
     font-size: 30px;
 }
-
 
 
 /* Egg distance */
@@ -107,19 +103,19 @@ footer p {
         margin-bottom: 0;
     }
 
-.grass {
-    position: absolute;
-    left: 50px;
-    top: 150px;
-    z-index: 100;
-}
+    .grass {
+        position: absolute;
+        left: 50px;
+        top: 150px;
+        z-index: 100;
+    }
 
-.water {
-    position: absolute;
-    right: 50px;
-    top: 150px;
-    z-index: 100;
-}
+    .water {
+        position: absolute;
+        right: 50px;
+        top: 150px;
+        z-index: 100;
+    }
 
 }
 
@@ -127,4 +123,5 @@ footer p {
 @media (min-width: 768px) and (max-width: 1024px) {
     .grass {
         position: relative;
-    }}
+    }
+}

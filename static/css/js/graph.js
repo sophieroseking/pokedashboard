@@ -298,7 +298,7 @@ function show_region_numbers(ndx) {
 /* stacked chart type by gen */
 
 function show_type_by_gen(ndx) {
-     var typeClass_dim = ndx.dimension(function(d) {
+    var typeClass_dim = ndx.dimension(function(d) {
         return [d.type_1];
     });
 
@@ -345,7 +345,7 @@ function show_type_by_gen(ndx) {
         .stack(rankGen5, "Gen 5")
         .stack(rankGen6, "Gen 6")
         .stack(rankGen7, "Gen 7")
-         .valueAccessor(function(d) {
+        .valueAccessor(function(d) {
             if (d.value.total > 0) {
                 return (d.value.match / d.value.total) * 100;
             }
@@ -362,7 +362,7 @@ function show_type_by_gen(ndx) {
                 .attr('transform', "rotate(-37)");
         })
         .legend(dc.legend().x(10).y(40).itemHeight(15).gap(5).itemWidth(50));
-    
+
 }
 
 
