@@ -64,8 +64,13 @@ I picked Monsterrat by Julieta Ulanovsky for my website font as it is clear with
 
 ## Testing
 I have tested the page using google developer tools. Any console errors were dealt with and none remain in the deployed site.
+
 I wanted to ensure that users get the best possible experience on all screen sizes. I used the Bootstrap grid system to achieve this, although some of the charts are not as responsive as I might like them to be (the scatter plot is the least visually appealing when viewing on a mobile). I didn’t like the way two of the number display charts were displaying in mobile view, so I hid them in screen sizes smaller than large. I also added a note to the scatter plot to advise viewers it is best viewed on a larger screen size.
+
 I used the W3 verifier to check my code and fixed one error in the CSS code.
+
+I used [jshint](https://jshint.com/) to check my JS code.
+
 I ensured the charts were linked by clicking on different elements to see if the other charts changed accordingly.
 
 
