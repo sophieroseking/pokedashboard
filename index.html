@@ -29,32 +29,33 @@
     <main>
 
 
-        <section class="section">
+        <section>
             <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div class="header col-xs-12">
-                        <img src="https://fontmeme.com/permalink/190111/77588213fad7fb2f89f9011adae33004.png" alt="pokéDashboard" border="0" class="header-image">
+                        <img src="https://fontmeme.com/permalink/190111/77588213fad7fb2f89f9011adae33004.png" alt="pokéDashboard" class="header-image">
                     </div>
                 </div>
             </div>
         </section>
 
-        <!--Region selector -->
-        <div class="container-fluid">
-            <div class="row">
-                <div class="chart col-xs-12 col-md-6 col-lg-4 offset-md-4">
-                    <h2>Select Region</h2>
-                    <div class="chart-holder">
-                        <div id="region-selector">
+        <section>
+
+            <!--Region selector -->
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="chart col-xs-12 col-md-6 col-lg-4 offset-md-4">
+                        <h2>Select Region</h2>
+                        <div class="chart-holder">
+                            <div id="region-selector">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
 
-        <section class="section">
 
-<!--Types of pokemon Pie charts -->
+            <!--Types of pokemon Pie charts -->
             <div class="container-fluid">
                 <div class="row  justify-content-center">
                     <div class="chart col-xs-12 col-sm-6 col-md-5 " id="type-1-percentage">
@@ -68,28 +69,30 @@
 
 
 
-<!--Grass, fire and water number displays -->
+            <!--Grass, fire and water number displays -->
             <div class="container-fluid grass-pokemon">
                 <div class="grass d-none d-lg-block">
                     <i class="fa fa-leaf"></i>
-                    <li id="grass-in-kanto" class="chart row">
-                        <h3>Kanto</h3>
-                    </li>
-                    <li id="grass-in-johto" class="chart row">
-                        <h3>Johto</h3>
-                    </li>
-                    <li id="grass-in-hoenn" class="chart row">
-                        <h3>Hoenn</h3>
-                    </li>
-                    <li id="grass-in-sinnoh" class="chart row">
-                        <h3>Sinnoh</h3>
-                    </li>
-                    <li id="grass-in-unova" class="chart row">
-                        <h3>Unova</h3>
-                    </li>
-                    <li id="grass-in-kalos" class="chart row">
-                        <h3>Kalos</h3>
-                    </li>
+                    <ul>
+                        <li id="grass-in-kanto" class="chart row">
+                            <h3>Kanto</h3>
+                        </li>
+                        <li id="grass-in-johto" class="chart row">
+                            <h3>Johto</h3>
+                        </li>
+                        <li id="grass-in-hoenn" class="chart row">
+                            <h3>Hoenn</h3>
+                        </li>
+                        <li id="grass-in-sinnoh" class="chart row">
+                            <h3>Sinnoh</h3>
+                        </li>
+                        <li id="grass-in-unova" class="chart row">
+                            <h3>Unova</h3>
+                        </li>
+                        <li id="grass-in-kalos" class="chart row">
+                            <h3>Kalos</h3>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
@@ -122,28 +125,30 @@
             <div class="container-fluid water-pokemon">
                 <div class="water d-none d-lg-block">
                     <i class="fa fa-tint"></i>
-                    <li id="water-in-kanto" class="chart row">
-                        <h3>Kanto</h3>
-                    </li>
-                    <li id="water-in-johto" class="chart row">
-                        <h3>Johto</h3>
-                    </li>
-                    <li id="water-in-hoenn" class="chart row">
-                        <h3>Hoenn</h3>
-                    </li>
-                    <li id="water-in-sinnoh" class="chart row">
-                        <h3>Sinnoh</h3>
-                    </li>
-                    <li id="water-in-unova" class="chart row">
-                        <h3>Unova</h3>
-                    </li>
-                    <li id="water-in-kalos" class="chart row">
-                        <h3>Kalos</h3>
-                    </li>
+                    <ul>
+                        <li id="water-in-kanto" class="chart row">
+                            <h3>Kanto</h3>
+                        </li>
+                        <li id="water-in-johto" class="chart row">
+                            <h3>Johto</h3>
+                        </li>
+                        <li id="water-in-hoenn" class="chart row">
+                            <h3>Hoenn</h3>
+                        </li>
+                        <li id="water-in-sinnoh" class="chart row">
+                            <h3>Sinnoh</h3>
+                        </li>
+                        <li id="water-in-unova" class="chart row">
+                            <h3>Unova</h3>
+                        </li>
+                        <li id="water-in-kalos" class="chart row">
+                            <h3>Kalos</h3>
+                        </li>
+                    </ul>
                 </div>
             </div>
-            
-<!--Shiny and egg distance pie charts -->
+
+            <!--Shiny and egg distance pie charts -->
             <div class="container-fluid">
                 <div class="row justify-content-center shiny-border">
                     <div id="shiny-non-shiny" class="chart col-xs-12 col-sm-5">
@@ -171,7 +176,7 @@
             </div>
 
 
-<!--Region bar chart & type by gender stacked bar chart -->
+            <!--Region bar chart & type by gender stacked bar chart -->
             <div class="container-fluid">
                 <div class="row justify-content-center">
                     <div id="region-balance" class="justify-content-center chart col-xs-12 col-sm-6">
@@ -186,12 +191,12 @@
                 </div>
             </div>
 
-<!--CP scatter plot -->
+            <!--CP scatter plot -->
             <div class="container-fluid justify-content-center">
                 <div class="row justify-content-center col-xs-12 col-md-10 offset-1">
                     <div id="cp-scatter-plot" class="col-xs-12">
                         <h2>Min and max CP</h2>
-                        <p class="cp-paragraph">Here we can see that there is a strong positive correlation between the minimum and maximum CP levels for level 40 Pokémon in Pokémon Go.</p>
+                        <p class="cp-paragraph">Here we can see that there is a strong positive correlation between the minimum and maximum CP levels for level 40 Pokémon in Pokémon Go. Please note, this chart is best viewed on a larger screen.</p>
                     </div>
                 </div>
             </div>
