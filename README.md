@@ -6,7 +6,9 @@ This is a one page dashboard displaying various interesting visual snippets of i
 The brief for the project was
 
 •	Build a data dashboard that visualizes a dataset of your choice
+
 •	Your data can be stored locally (e.g., in a js file) or sourced from an API
+
 •	Visualise your data using D3.js and dc.js
 
 
@@ -68,8 +70,8 @@ I ensured the charts were linked by clicking on different elements to see if the
 
 
 ## Deployment
-The website has been deployed via GitHub pages, it can be found ![here] (https://sophieroseking.github.io/pokedashboard/".)
+The website has been deployed via GitHub pages, it can be found [here.](https://sophieroseking.github.io/pokedashboard/)
 
 
 ## Credits
-•	Reddit user u/Zifendale had uploaded a Pokedex spreadsheet that I manipulated to get the data I wanted for my dashboard and pushed into a csv file.
+Reddit user **u/Zifendale** had uploaded a Pokedex spreadsheet that I manipulated to get the data I wanted for my dashboard and pushed into a csv file.
